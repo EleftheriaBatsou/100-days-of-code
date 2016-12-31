@@ -8,7 +8,7 @@
 **Thoughts:** This is a useful and easy way to detect the user's browser!
 It detects: Chrome,Firefox,Safari,Opera,MSIE,Trident,Edge, Internet Explorer.
 
-**Link to work:** [Detect User Browser](http://codepen.io/EleftheriaBatsou/full/pNBwaa/)
+**Link to work:** Detect User Browser on [Codepen](http://codepen.io/EleftheriaBatsou/full/pNBwaa/) or [Github](https://eleftheriabatsou.github.io/detect-your-name/) 
 
 ### Day 2: Jenuary 1, 2017 ()
 ##### (delete me or comment me out)
