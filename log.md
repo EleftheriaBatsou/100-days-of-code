@@ -29,3 +29,15 @@ I used the google maps API so you can locate the area of that postal code (or yo
 The whole project took me a lot of hours, I expected to be easier.
 
 **Link to work:**Postcode Finder and Map [Codepen](http://codepen.io/EleftheriaBatsou/full/kXRNjg/) or [Github](https://eleftheriabatsou.github.io/postcode-finder-and-map/)
+
+### Day 4: Jenuary 3, 2017 (CSS and JS clock)
+##### (delete me or comment me out)
+
+**Today's Progress**: I learned about transform/transition in css.
+
+**Thoughts:** I have done a clock using js before, but it was a digital one... this time a made a classic one. I wanted to be very simple. My main focus was on transform/transition properties.
+
+**Link to work:**CSS JS Clock [Codepen](http://codepen.io/EleftheriaBatsou/full/ZLEvYp/) or [Github](https://eleftheriabatsou.github.io/css-js-clock/)
+
+
+
