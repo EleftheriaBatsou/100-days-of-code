@@ -39,5 +39,14 @@ The whole project took me a lot of hours, I expected to be easier.
 
 **Link to work:**CSS JS Clock [Codepen](http://codepen.io/EleftheriaBatsou/full/ZLEvYp/) or [Github](https://eleftheriabatsou.github.io/css-js-clock/)
 
+### Day 5: Jenuary 4, 2017 (Update CSS Variables with JS)
+
+
+**Today's Progress**: I learned about updating css variables with js. It's a very simple project but I like it!
+
+**Thoughts:** I 've never done a similar project. I learn some new stuff about CSS and more specific about how to use variables as I though this is something that can only be done with SCSS
+
+**Link to work:**Update CSS Variables with JS [Codepen](http://codepen.io/EleftheriaBatsou/full/YNzMjB/) or [Github](https://eleftheriabatsou.github.io/UpdateCSSVariablesWithJs/)
+
 
 
