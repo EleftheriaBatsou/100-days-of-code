@@ -49,4 +49,14 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Update CSS Variables with JS [Codepen](http://codepen.io/EleftheriaBatsou/full/YNzMjB/) or [Github](https://eleftheriabatsou.github.io/UpdateCSSVariablesWithJs/)
 
 
+### Day 6: Jenuary 5, 2017 (Collision Detection Hit Game Enemies)
+
+
+**Today's Progress**: I refresh my memory about css and the image as a cover... and I also learn some new things in js.
+
+**Thoughts:** I liked this game. I think it can be improved in many was, and I would like in the future to keep working on that project
+
+**Link to work:**Collision Detection Hit Game Enemies [Codepen](http://codepen.io/EleftheriaBatsou/full/GNLvXQ/) or [Github](https://eleftheriabatsou.github.io/collision-detection-hit-game-enemies/)
+
+
 
