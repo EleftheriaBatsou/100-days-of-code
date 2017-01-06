@@ -59,4 +59,19 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Collision Detection Hit Game Enemies [Codepen](http://codepen.io/EleftheriaBatsou/full/GNLvXQ/) or [Github](https://eleftheriabatsou.github.io/collision-detection-hit-game-enemies/)
 
 
+### Day 7: Jenuary 6, 2017 (Array Cardio Part 1)
+
+
+**Today's Progress**: Today I studied some js's methods like sort, prototype, filter, reduce 
+
+**Thoughts:** I have used these kind of methods before, but today was more in depth. This project was inspired by: https://javascript30.com
+
+**Link to work:**Array Cardio Part 1 [Codepen](http://codepen.io/EleftheriaBatsou/full/wgazVv/) or [Github](https://eleftheriabatsou.github.io/array-cardio-part-1/)
+
+
+
+
+
+
+
 
