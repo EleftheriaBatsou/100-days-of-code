@@ -69,6 +69,16 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Array Cardio Part 1 [Codepen](http://codepen.io/EleftheriaBatsou/full/wgazVv/) or [Github](https://eleftheriabatsou.github.io/array-cardio-part-1/)
 
 
+### Day 8: Jenuary 7, 2017 ()
+
+
+**Today's Progress**: Today was all about flex box and panels. 
+
+**Thoughts:** I dont know many things about panels but I definatelly want to learn more. This project was inspired by: https://javascript30.com
+
+**Link to work:** [Codepen](http://codepen.io/EleftheriaBatsou/full/EZjQdd/) or [Github](https://eleftheriabatsou.github.io/flex-panel-gallery/)
+
+
 
 
 
