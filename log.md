@@ -79,6 +79,16 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Flex Box Gallery Image [Codepen](http://codepen.io/EleftheriaBatsou/full/EZjQdd/) or [Github](https://eleftheriabatsou.github.io/flex-panel-gallery/)
 
 
+### Day 9: Jenuary 8, 2017 (Search city or state)
+
+
+**Today's Progress**: In this project I have used ajax.
+
+**Thoughts:**I want to learn more about ajax and xml files. I think it s something really handy. Also I like a lot this kind of css, and I will use it more in the future (I mean the part with the "child" and the visual effect). This project was inspired by: https://javascript30.com
+
+**Link to work:**Search city or state [Codepen](http://codepen.io/EleftheriaBatsou/full/qRdGVJ/) or [Github](https://eleftheriabatsou.github.io/search-city-or-state/)
+
+
 
 
 
