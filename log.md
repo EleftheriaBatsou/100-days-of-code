@@ -62,7 +62,7 @@ The whole project took me a lot of hours, I expected to be easier.
 ### Day 7: Jenuary 6, 2017 (Array Cardio Part 1)
 
 
-**Today's Progress**: Today I studied some js's methods like sort, prototype, filter, reduce 
+**Today's Progress**: Today I studied some array methods like sort, prototype, filter, reduce 
 
 **Thoughts:** I have used these kind of methods before, but today was more in depth. This project was inspired by: https://javascript30.com
 
@@ -87,6 +87,16 @@ The whole project took me a lot of hours, I expected to be easier.
 **Thoughts:**I want to learn more about ajax and xml files. I think it s something really handy. Also I like a lot this kind of css, and I will use it more in the future (I mean the part with the "child" and the visual effect). This project was inspired by: https://javascript30.com
 
 **Link to work:**Search city or state [Codepen](http://codepen.io/EleftheriaBatsou/full/qRdGVJ/) or [Github](https://eleftheriabatsou.github.io/search-city-or-state/)
+
+
+### Day 10: Jenuary 9, 2017 (Array Cardio Part 2)
+
+
+**Today's Progress**: Today I studied again some array methods like some, every, find, find.index 
+
+**Thoughts:** I dont recall to have used these kind of methods before, maybe ecxept find... This project was inspired by: https://javascript30.com
+
+**Link to work:**Array Cardio Part 2 [Codepen](http://codepen.io/EleftheriaBatsou/full/VPvWOm/) or [Github](https://eleftheriabatsou.github.io/array-cardio-part-2/)
 
 
 
