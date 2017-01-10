@@ -104,7 +104,7 @@ The whole project took me a lot of hours, I expected to be easier.
 
 **Today's Progress**: I made a paint-project using canvas, html5 and some css.
 
-**Thoughts:** I used many new things and properties, especially in css. This project was inspired by: https://javascript30.com
+**Thoughts:** I used many new things and properties, especially in javascript. This project was inspired by: https://javascript30.com
 
 **Link to work:**Draw Like Never Before [Codepen](http://codepen.io/EleftheriaBatsou/pen/xgwPwM) or [Github](https://eleftheriabatsou.github.io/draw-like-never-before/)
 
