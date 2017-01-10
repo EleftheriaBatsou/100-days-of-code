@@ -99,6 +99,20 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Array Cardio Part 2 [Codepen](http://codepen.io/EleftheriaBatsou/full/VPvWOm/) or [Github](https://eleftheriabatsou.github.io/array-cardio-part-2/)
 
 
+### Day 11: Jenuary 10, 2017 (Draw Like Never Before)
+
+
+**Today's Progress**: I made a paint-project using canvas, html5 and some css.
+
+**Thoughts:** I used many new things and properties, especially in css. This project was inspired by: https://javascript30.com
+
+**Link to work:**Draw Like Never Before [Codepen](http://codepen.io/EleftheriaBatsou/pen/xgwPwM) or [Github](https://eleftheriabatsou.github.io/draw-like-never-before/)
+
+
+
+
+
+
 
 
 
