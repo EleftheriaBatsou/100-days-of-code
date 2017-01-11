@@ -109,6 +109,16 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Draw Like Never Before [Codepen](http://codepen.io/EleftheriaBatsou/pen/xgwPwM) or [Github](https://eleftheriabatsou.github.io/draw-like-never-before/)
 
 
+### Day 12: Jenuary 11, 2017 (Music App template with flexbox)
+
+
+**Today's Progress**: So... I made a music app template with flexbox
+
+**Thoughts:** I found [this](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.ti4hixn3e) article on medium about flexbox. Flexbox has so many properties I didn't know about. The article really helped me to learn how "flex" works. I can't remember how to use all the properties correctly but at least I know where to search in case I get lost!
+
+**Link to work:**Music App template with flexbox [Codepen](http://codepen.io/EleftheriaBatsou/pen/apdNXG) or [Github](https://eleftheriabatsou.github.io/music-app-tamplate-with-flexbox/)
+
+
 
 
 
