@@ -119,6 +119,18 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Music App template with flexbox [Codepen](http://codepen.io/EleftheriaBatsou/pen/apdNXG) or [Github](https://eleftheriabatsou.github.io/music-app-tamplate-with-flexbox/)
 
 
+### Day 13: Jenuary 12, 2017 (Must Know Dev Tools)
+
+
+**Today's Progress**: Today I study some console.log tricks
+
+**Thoughts:** In this project there is nothing special in html or css. But... I used the console.log, error, warn, clear, info, assert to get some useful info.
+
+**Link to work:**Must Know Dev Tools [Codepen](http://codepen.io/EleftheriaBatsou/pen/ZLQpGP?editors=0100) or [Github](https://eleftheriabatsou.github.io/must-know-dev-tools//)
+
+
+
+
 
 
 
