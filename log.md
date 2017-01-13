@@ -126,7 +126,17 @@ The whole project took me a lot of hours, I expected to be easier.
 
 **Thoughts:** In this project there is nothing special in html or css. But... I used the console.log, error, warn, clear, info, assert to get some useful info.
 
-**Link to work:**Must Know Dev Tools [Codepen](http://codepen.io/EleftheriaBatsou/pen/ZLQpGP?editors=0100) or [Github](https://eleftheriabatsou.github.io/must-know-dev-tools//)
+**Link to work:**Must Know Dev Tools [Codepen](http://codepen.io/EleftheriaBatsou/pen/ZLQpGP?editors=0100) or [Github](https://eleftheriabatsou.github.io/must-know-dev-tools/)
+
+
+### Day 14: Jenuary 13, 2017 (Check Mulptiple Checkboxes)
+
+
+**Today's Progress**: Hold shift to check multiple checkboxes. When a user clicks a checkbox, holds Shift, and then clicks another checkbox a few rows down, all the checkboxes inbetween those two checkboxes should be checked.
+
+**Thoughts:** I learned about handleCheck in js, how to detect if a key is pressed and how to check multiple boxes by holding shift. This project was inspired by: https://javascript30.com
+
+**Link to work:**Must Know Dev Tools [Codepen](http://codepen.io/EleftheriaBatsou/pen/ZLQpGP?editors=0100) or [Github](https://eleftheriabatsou.github.io/must-know-dev-tools/)
 
 
 
