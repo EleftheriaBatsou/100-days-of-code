@@ -139,6 +139,16 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Must Know Dev Tools [Codepen](http://codepen.io/EleftheriaBatsou/pen/ZLQpGP?editors=0100) or [Github](https://eleftheriabatsou.github.io/must-know-dev-tools/)
 
 
+### Day 15: Jenuary 14, 2017 (Custom HTML video player)
+
+
+**Today's Progress**: I made a HTML5 video player!
+
+**Thoughts:** I think it's very useful to know hot to customize everything in a video player. This video player is full functionall and works without many components which means it will load fast and for every browser. This project was inspired by: https://javascript30.com
+
+**Link to work:**Custom HTML video player [Codepen](http://codepen.io/EleftheriaBatsou/full/PWZXeQ/) or [Github](https://eleftheriabatsou.github.io/custom-html-video-player/)
+
+
 
 
 
