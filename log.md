@@ -149,6 +149,16 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Custom HTML video player [Codepen](http://codepen.io/EleftheriaBatsou/full/PWZXeQ/) or [Github](https://eleftheriabatsou.github.io/custom-html-video-player/)
 
 
+### Day 16: Jenuary 15, 2017 (Secret Password - Key Detection)
+
+
+**Today's Progress**: I made a key detection programma that can be used for games, for fun or anything else. In order to make it a lit bit cooler I add the "cornify.js" so we can see unicorns
+
+**Thoughts:**The key detection and especially in this way, was my first time using it. The line "pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);" was interesting enough, as the detection degins from the end to the front. And although I am a liitle bit of 90's kid, I also didn't know about the cornify_add(); (this is the function that shows the unicorns). This project was inspired by: https://javascript30.com
+
+**Link to work:**Secret Password - Key Detection [Codepen](universiteitleiden.nl/en/events/2016/12/the-power-of-social-business---a-future-for-all) or [Github](https://eleftheriabatsou.github.io/secret-password-key-detection/)
+
+
 
 
 
