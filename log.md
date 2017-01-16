@@ -156,7 +156,17 @@ The whole project took me a lot of hours, I expected to be easier.
 
 **Thoughts:**The key detection and especially in this way, was my first time using it. The line "pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);" was interesting enough, as the detection degins from the end to the front. And although I am a liitle bit of 90's kid, I also didn't know about the cornify_add(); (this is the function that shows the unicorns). This project was inspired by: https://javascript30.com
 
-**Link to work:**Secret Password - Key Detection [Codepen](universiteitleiden.nl/en/events/2016/12/the-power-of-social-business---a-future-for-all) or [Github](https://eleftheriabatsou.github.io/secret-password-key-detection/)
+**Link to work:**Secret Password - Key Detection [Codepen](http://codepen.io/EleftheriaBatsou/full/wgGpxm/) or [Github](https://eleftheriabatsou.github.io/secret-password-key-detection/)
+
+
+### Day 17: Jenuary 16, 2017 (Slide on Scroll)
+
+
+**Today's Progress**: This is a simple project but once again I learn some usefull things about js and css.
+
+**Thoughts:**The new parts are: window events and scrollY and some maths! This project was inspired by: https://javascript30.com
+
+**Link to work:**Slide on Scroll [Codepen](https://github.com/EleftheriaBatsou/slide-on-scroll.git) or [Github](https://eleftheriabatsou.github.io/slide-on-scroll/)
 
 
 
