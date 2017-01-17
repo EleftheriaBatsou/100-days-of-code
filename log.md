@@ -169,6 +169,20 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Slide on Scroll [Codepen](https://github.com/EleftheriaBatsou/slide-on-scroll.git) or [Github](https://eleftheriabatsou.github.io/slide-on-scroll/)
 
 
+### Day 18: Jenuary 17, 2017 (Objects and Arrays)
+
+
+**Today's Progress**: Today was about objects and arrays, javascript references vs copies. You can check the javascript console to see more details.
+
+**Thoughts:** This is not a fancy project, this is pure javascript and the capabilities of ES6. This project was inspired by: https://javascript30.com
+
+**Link to work:**Slide on Scroll [Codepen](http://codepen.io/EleftheriaBatsou/full/XpKNmJ/) or [Github](https://eleftheriabatsou.github.io/objects-and-arrays/)
+
+
+
+
+
+
 
 
 
