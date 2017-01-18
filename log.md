@@ -179,6 +179,16 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Slide on Scroll [Codepen](http://codepen.io/EleftheriaBatsou/full/XpKNmJ/) or [Github](https://eleftheriabatsou.github.io/objects-and-arrays/)
 
 
+### Day 19: Jenuary 18, 2017 (Move mouse with Shadows)
+
+
+**Today's Progress**: This is a fun project. You can move the mouse and you will see some shadows. You can control the shadows from the css file.
+
+**Thoughts:**I learn some more things about shadows. There is again some maths! But I like maths so this is alwas something fun. I laso used for the first time emojis. You just have to use a library and then it s easy. This project was inspired by: https://javascript30.com
+
+**Link to work:**Move mouse with Shadows [Codepen](http://codepen.io/EleftheriaBatsou/full/dNXOxe/) or [Github](https://eleftheriabatsou.github.io/move-mouse/)
+
+
 
 
 
