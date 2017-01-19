@@ -189,6 +189,16 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Move mouse with Shadows [Codepen](http://codepen.io/EleftheriaBatsou/full/dNXOxe/) or [Github](https://eleftheriabatsou.github.io/move-mouse/)
 
 
+### Day 20: Jenuary 19, 2017 (Sort Array Without Articles)
+
+
+**Today's Progress**: In this project I use replace() and trim() to cut out the articles, then sort() to sort the array and finally map() and join() to present the strings in the array in the html section. There isn't much of html or css. 
+
+**Thoughts:** I didnt know the sort function can work in strings too! Also I made the comparison of the strings in just on line and without using else-if statement whch I think is pretty cool. This project was inspired by: https://javascript30.com
+
+**Link to work:**Sort Array Without Articles [Codepen](http://codepen.io/EleftheriaBatsou/full/XpKpaz/) or [Github](https://eleftheriabatsou.github.io/sort-array-without-articles/)
+
+
 
 
 
