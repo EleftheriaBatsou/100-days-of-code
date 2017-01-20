@@ -199,6 +199,20 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Sort Array Without Articles [Codepen](http://codepen.io/EleftheriaBatsou/full/XpKpaz/) or [Github](https://eleftheriabatsou.github.io/sort-array-without-articles/)
 
 
+### Day 21: Jenuary 20, 2017 (Circular Progress Loader canvas with javascript)
+
+
+**Today's Progress**: This project is a nice circular progress loader using canvas and some javascript. Reload the page to see the effect again. 
+
+**Thoughts:** I have to learn more things about canvas. I think you can create some very interesting projects with canvas. Inspiration from here: https://www.developphp.com/
+
+**Link to work:**Circular Progress Loader canvas with javascript [Codepen](http://codepen.io/EleftheriaBatsou/full/WoWExy/) or [Github](https://eleftheriabatsou.github.io/circular-progress-loader-canvas/)
+
+
+
+
+
+
 
 
 
