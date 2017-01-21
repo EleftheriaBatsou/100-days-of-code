@@ -209,6 +209,18 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Circular Progress Loader canvas with javascript [Codepen](http://codepen.io/EleftheriaBatsou/full/WoWExy/) or [Github](https://eleftheriabatsou.github.io/circular-progress-loader-canvas/)
 
 
+### Day 22: Jenuary 21, 2017 (Trigger CSS Transitions to Control Animations)
+
+
+**Today's Progress**: This project demontstrates: how to trigger CSS transition animations using JavaScript
+1st animation: Change and reset the bg-color
+2nd animation: Fade-in Fade-out 
+
+**Thoughts:** I like transitions, they can make a project look very cool. Of cource the transition I used here are very simple, but first you have to do the simple stuff and then go to the big ones! Inspiration from here: https://www.developphp.com/ and https://www.developphp.com/video/JavaScript/Trigger-CSS-Transitions-to-Control-Animations
+
+**Link to work:**Trigger CSS Transitions to Control Animations [Codepen](http://codepen.io/EleftheriaBatsou/full/mOgpdR/) or [Github](https://eleftheriabatsou.github.io/trigger-CSS-transitions-to-control-animations/)
+
+
 
 
 
