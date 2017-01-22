@@ -221,6 +221,16 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Trigger CSS Transitions to Control Animations [Codepen](http://codepen.io/EleftheriaBatsou/full/mOgpdR/) or [Github](https://eleftheriabatsou.github.io/trigger-CSS-transitions-to-control-animations/)
 
 
+### Day 23: Jenuary 22, 2017 (Twitter Api - Multiple Posts at real time)
+
+
+**Today's Progress**: I ve been searching the web for a while, until I found a twitter Api
+
+**Thoughts:** I like this api very much. I have to admit it not enterly my job. It is in real time, you can configure it as you like and have multiple posts. This is certanly something I will use in my webpage
+
+**Link to work:**Twitter Api - Multiple Posts at real time [Codepen](http://codepen.io/EleftheriaBatsou/full/NdjMzQ/) or [Github](https://eleftheriabatsou.github.io/twitter-api-multiple-posts/)
+
+
 
 
 
