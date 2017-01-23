@@ -231,6 +231,16 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Twitter Api - Multiple Posts at real time [Codepen](http://codepen.io/EleftheriaBatsou/full/NdjMzQ/) or [Github](https://eleftheriabatsou.github.io/twitter-api-multiple-posts/)
 
 
+### Day 24: Jenuary 23, 2017 (Adding-up times with reduce)
+
+
+**Today's Progress**: I sum up times of videos. This was my first time using reduce.
+
+**Thoughts:** Except from reduce I also find some new ways to use .map, pasrefloat function and mod. Back in my days in the university we were using mod (%) for many projects but latelly I didn't do anything with it. This project was inspired by: https://javascript30.com
+
+**Link to work:**Adding-up times with reduce [Codepen](http://codepen.io/EleftheriaBatsou/full/RKgKjG/) or [Github](https://eleftheriabatsou.github.io/adding-up-times-with-reduce/)
+
+
 
 
 
