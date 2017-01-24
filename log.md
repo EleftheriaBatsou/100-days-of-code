@@ -244,9 +244,9 @@ The whole project took me a lot of hours, I expected to be easier.
 ### Day 25: Jenuary 24, 2017 (Restaurant menu with Local Storage and Event Delegation)
 
 
-**Today's Progress**: 
+**Today's Progress**: Today I did a "restaurant menu" that you can add or delete your dishes.
 
-**Thoughts:**  This project was inspired by: https://javascript30.com
+**Thoughts:** This project was about things: 1)Local storage: if someone refresh the page, everything will be still there 2)Event delegation: when someone adds an item, he can click on it and tackle it. Local storage can be used in to-do lists. This time a made a "resaturant-menu" but next time it can be a "to-do list".  This project was inspired by: https://javascript30.com
 
 **Link to work:**Restaurant menu with Local Storage and Event Delegation [Codepen](http://codepen.io/EleftheriaBatsou/full/egRqGY/) or [Github](https://eleftheriabatsou.github.io/local-storage-and-event-delegation/)
 
