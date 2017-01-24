@@ -241,6 +241,16 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Adding-up times with reduce [Codepen](http://codepen.io/EleftheriaBatsou/full/RKgKjG/) or [Github](https://eleftheriabatsou.github.io/adding-up-times-with-reduce/)
 
 
+### Day 25: Jenuary 24, 2017 (Restaurant menu with Local Storage and Event Delegation)
+
+
+**Today's Progress**: 
+
+**Thoughts:**  This project was inspired by: https://javascript30.com
+
+**Link to work:**Restaurant menu with Local Storage and Event Delegation [Codepen](http://codepen.io/EleftheriaBatsou/full/egRqGY/) or [Github](https://eleftheriabatsou.github.io/local-storage-and-event-delegation/)
+
+
 
 
 
