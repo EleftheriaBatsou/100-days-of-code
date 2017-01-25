@@ -251,6 +251,17 @@ The whole project took me a lot of hours, I expected to be easier.
 **Link to work:**Restaurant menu with Local Storage and Event Delegation [Codepen](http://codepen.io/EleftheriaBatsou/full/egRqGY/) or [Github](https://eleftheriabatsou.github.io/local-storage-and-event-delegation/)
 
 
+### Day 26: Jenuary 25, 2017 (Unreal WebCam Fun)
+
+
+**Today's Progress**: I made my own filters for webcam
+
+**Thoughts:** This progect needs php. I tried to open my webcam through localhost since I arleady had configured my xamp server but I coludn't make my camera working. Fortunatelly, everything works good in github. 
+To make the filters you have to know some maths and a litle bit of color-theory. I saw some very helpful tutorials to help me understand how filters work. This project was inspired by: https://javascript30.com
+
+**Link to work:**Unreal WebCam Fun  [Github](https://eleftheriabatsou.github.io/unreal-webcam-fun/)
+
+
 
 
 
