@@ -261,6 +261,16 @@ To make the filters you have to know some maths and a litle bit of color-theory.
 
 **Link to work:**Unreal WebCam Fun  [Github](https://eleftheriabatsou.github.io/unreal-webcam-fun/)
 
+### Day 27: Jenuary 26, 2017 (Native Speech Recognition)
+
+
+**Today's Progress**: Speak and the program will try to write everything down for you!
+
+**Thoughts:** This progect needs php so once again I had to use github. I didn't know that you could do something like this with only some javascript. I enjoied native speech recognition.
+This project was inspired by: https://javascript30.com
+
+**Link to work:**Native Speech Recognition  [Github](https://eleftheriabatsou.github.io/native-speech-recognition/)
+
 
 
 
