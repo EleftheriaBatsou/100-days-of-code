@@ -261,6 +261,7 @@ To make the filters you have to know some maths and a litle bit of color-theory.
 
 **Link to work:**Unreal WebCam Fun  [Github](https://eleftheriabatsou.github.io/unreal-webcam-fun/)
 
+
 ### Day 27: Jenuary 26, 2017 (Native Speech Recognition)
 
 
@@ -270,6 +271,17 @@ To make the filters you have to know some maths and a litle bit of color-theory.
 This project was inspired by: https://javascript30.com
 
 **Link to work:**Native Speech Recognition  [Github](https://eleftheriabatsou.github.io/native-speech-recognition/)
+
+
+### Day 28: Jenuary 27, 2017 (Geolocation)
+
+
+**Today's Progress**: I followed the tutorial from javascript30 and I made a geolocation simple project.
+
+**Thoughts:** This progect needs php so once again I had to use github. This is my 3rd project using geolocation. I think you can creat many cools projects with geolocation. This project will only work on mac :(
+This project was inspired by: https://javascript30.com
+
+**Link to work:**Geolocation  [Github](https://eleftheriabatsou.github.io/geolocation/)
 
 
 
