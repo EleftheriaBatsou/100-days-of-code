@@ -284,6 +284,16 @@ This project was inspired by: https://javascript30.com
 **Link to work:**Geolocation  [Github](https://eleftheriabatsou.github.io/geolocation/)
 
 
+### Day 29: Jenuary 28, 2017 (Follow alogn links)
+
+
+**Today's Progress**: Hover over everything and watch the effect! The text and the links are highlighted in a beautiful way!
+**Thoughts:** I learn about highlighting effect with css and javascript.
+This project was inspired by: https://javascript30.com
+
+**Link to work:**Follow alogn links [Codepen](http://codepen.io/EleftheriaBatsou/full/zNdLjM/) [Github](https://github.com/EleftheriaBatsou/follow-alogn-links)
+
+
 
 
 
