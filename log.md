@@ -291,7 +291,7 @@ This project was inspired by: https://javascript30.com
 **Thoughts:** I learn about highlighting effect with css and javascript.
 This project was inspired by: https://javascript30.com
 
-**Link to work:**Follow alogn links [Codepen](http://codepen.io/EleftheriaBatsou/full/zNdLjM/) [Github](https://github.com/EleftheriaBatsou/follow-alogn-links)
+**Link to work:**Follow alogn links [Codepen](http://codepen.io/EleftheriaBatsou/full/zNdLjM/) [Github](https://eleftheriabatsou.github.io/follow-alogn-links/)
 
 
 
