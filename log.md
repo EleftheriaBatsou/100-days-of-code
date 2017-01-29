@@ -288,10 +288,22 @@ This project was inspired by: https://javascript30.com
 
 
 **Today's Progress**: Hover over everything and watch the effect! The text and the links are highlighted in a beautiful way!
+
 **Thoughts:** I learn about highlighting effect with css and javascript.
 This project was inspired by: https://javascript30.com
 
 **Link to work:**Follow alogn links [Codepen](http://codepen.io/EleftheriaBatsou/full/zNdLjM/) [Github](https://eleftheriabatsou.github.io/follow-alogn-links/)
+
+
+### Day 30: Jenuary 29, 2017 (Speech Synthesis)
+
+
+**Today's Progress**: Select voice, rate and pitch. You can listen to everything you type in the box.
+
+**Thoughts:** Some voices can be a little slow as loading takes some time. In safari there are propably more options in voice rather than chrome. I think this project can be very useful. I remember doing something similiar in python for my diploma thesis. 
+This project was inspired by: https://javascript30.com
+
+**Link to work:**Speech Synthesis [Codepen](https://eleftheriabatsou.github.io/speech-synthesis/) [Github](https://eleftheriabatsou.github.io/speech-synthesis/)
 
 
 
