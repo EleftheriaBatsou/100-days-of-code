@@ -292,7 +292,7 @@ This project was inspired by: https://javascript30.com
 **Thoughts:** I learn about highlighting effect with css and javascript.
 This project was inspired by: https://javascript30.com
 
-**Link to work:**Follow alogn links [Codepen](http://codepen.io/EleftheriaBatsou/full/zNdLjM/) [Github](https://eleftheriabatsou.github.io/follow-alogn-links/)
+**Link to work:**Follow alogn links [Codepen](http://codepen.io/EleftheriaBatsou/full/zNdLjM/) or [Github](https://eleftheriabatsou.github.io/follow-alogn-links/)
 
 
 ### Day 30: Jenuary 29, 2017 (Speech Synthesis)
@@ -303,7 +303,21 @@ This project was inspired by: https://javascript30.com
 **Thoughts:** Some voices can be a little slow as loading takes some time. In safari there are propably more options in voice rather than chrome. I think this project can be very useful. I remember doing something similiar in python for my diploma thesis. 
 This project was inspired by: https://javascript30.com
 
-**Link to work:**Speech Synthesis [Codepen](https://eleftheriabatsou.github.io/speech-synthesis/) [Github](https://eleftheriabatsou.github.io/speech-synthesis/)
+**Link to work:**Speech Synthesis [Codepen](https://eleftheriabatsou.github.io/speech-synthesis/) or [Github](https://eleftheriabatsou.github.io/speech-synthesis/)
+
+
+### Day 31: Jenuary 30, 2017 (Sticky Nav)
+
+
+**Today's Progress**: When you scroll the menu bar (or sticky nav) it  will stay at the top of the screen and it will also add an effect. 
+
+**Thoughts:** The effect is simply a padding-left with html and a transormation: scale(1) with css. Although the code isn't many lines, yet the result is beautiful.
+This project was inspired by: https://javascript30.com
+
+**Link to work:**Sticky Nav [Codepen](http://codepen.io/EleftheriaBatsou/full/JEMpoo/) [Github](https://eleftheriabatsou.github.io/sticky-nav/)
+
+
+
 
 
 
