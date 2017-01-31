@@ -314,7 +314,21 @@ This project was inspired by: https://javascript30.com
 **Thoughts:** The effect is simply a padding-left with html and a transormation: scale(1) with css. Although the code isn't many lines, yet the result is beautiful.
 This project was inspired by: https://javascript30.com
 
-**Link to work:**Sticky Nav [Codepen](http://codepen.io/EleftheriaBatsou/full/JEMpoo/) [Github](https://eleftheriabatsou.github.io/sticky-nav/)
+**Link to work:**Sticky Nav [Codepen](http://codepen.io/EleftheriaBatsou/full/JEMpoo/) or [Github](https://eleftheriabatsou.github.io/sticky-nav/)
+
+
+### Day 32: Jenuary 31, 2017 (Event capturing, propagation, bubbling and property once)
+
+
+**Today's Progress**: Today I learn about: add event listener, propagation, event capturing, bubbling and the property once.
+
+**Thoughts:** Here are some notes about the new properties: 
+-Bubbling: when you click an event then everything that is up to this level will also be clicked.
+-The browser will first capture, which means that when you click on the element it will ripple it down. The capture is from top down, and then it will bubble up.
+-Once is a very new property. If it's equal to true, it will listen for a click and then unbind the event, which is the same as remove.
+This project was inspired by: https://javascript30.com
+
+**Link to work:**Event capturing, propagation, bubbling and property once [Codepen](http://codepen.io/EleftheriaBatsou/full/jyZrWj/) or [Github](https://eleftheriabatsou.github.io/event-capturing-propagation-bubbling-once/)
 
 
 
