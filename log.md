@@ -334,7 +334,7 @@ This project was inspired by: https://javascript30.com
 ### Day 33: February 1, 2017 (Stripe Follow Along Nav)
 
 
-**Today's Progress**: I learn about some css tricks like animations with two seperate classes (e.x. .trigger-enter .dropdown and .trigger-enter-active .dropdown)
+**Today's Progress**: I learn about some css tricks like animations with two separate classes (e.x. .trigger-enter .dropdown and .trigger-enter-active .dropdown)
 
 **Thoughts:** This project can be used in a vary of manus and nav bars. The advantage of the code is that it's responsive and it 'll follow the lenght of the text.
 This project was inspired by: https://javascript30.com
