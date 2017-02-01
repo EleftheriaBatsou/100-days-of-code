@@ -331,6 +331,17 @@ This project was inspired by: https://javascript30.com
 **Link to work:**Event capturing, propagation, bubbling and property once [Codepen](http://codepen.io/EleftheriaBatsou/full/jyZrWj/) or [Github](https://eleftheriabatsou.github.io/event-capturing-propagation-bubbling-once/)
 
 
+### Day 33: February 1, 2017 (Stripe Follow Along Nav)
+
+
+**Today's Progress**: I learn about some css tricks like animations with two seperate classes (e.x. .trigger-enter .dropdown and .trigger-enter-active .dropdown)
+
+**Thoughts:** This project can be used in a vary of manus and nav bars. The advantage of the code is that it's responsive and it 'll follow the lenght of the text.
+This project was inspired by: https://javascript30.com
+
+**Link to work:**Stripe Follow Along Nav [Codepen](http://codepen.io/EleftheriaBatsou/full/KaQNLY/) or [Github](https://eleftheriabatsou.github.io/stripe-follow-along-nav/)
+
+
 
 
 
