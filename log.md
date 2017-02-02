@@ -342,6 +342,15 @@ This project was inspired by: https://javascript30.com
 **Link to work:**Stripe Follow Along Nav [Codepen](http://codepen.io/EleftheriaBatsou/full/KaQNLY/) or [Github](https://eleftheriabatsou.github.io/stripe-follow-along-nav/)
 
 
+### Day 34: February 2, 2017 (Click and drag)
+
+
+**Today's Progress**: Click and drag to see the vertical effect
+
+**Thoughts:** Simpl-ish code, you have to make some variables and then caption at time when the mouse is down and then reference when somebody moves the mouse.
+This project was inspired by: https://javascript30.com
+
+**Link to work:**Click and drag [Codepen](http://codepen.io/EleftheriaBatsou/full/NdyjvM/) or [Github](https://eleftheriabatsou.github.io/clicking-and-drag/)
 
 
 
