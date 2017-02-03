@@ -353,6 +353,19 @@ This project was inspired by: https://javascript30.com
 **Link to work:**Click and drag [Codepen](http://codepen.io/EleftheriaBatsou/full/NdyjvM/) or [Github](https://eleftheriabatsou.github.io/clicking-and-drag/)
 
 
+### Day 35: February 3, 2017 (Video Speed Controller)
+
+
+**Today's Progress**: Scroll the right column to make the speed faster or slower
+
+**Thoughts:** Today I combined two things: mouse move events and html5 videos properties. I have used events and html5 videos in other projects too, but I like the idea of a video speed controller.
+*The video must end with the parameter ?dl=1
+The original video from youtube: https://youtu.be/vQ2A1pOchFM
+This project was inspired by: https://javascript30.com
+
+**Link to work:**Video Speed Controller [Codepen](http://codepen.io/EleftheriaBatsou/full/mRXwBG/) or [Github](https://eleftheriabatsou.github.io/video-speed-controller/)
+
+
 
 
 
