@@ -366,6 +366,17 @@ This project was inspired by: https://javascript30.com
 **Link to work:**Video Speed Controller [Codepen](http://codepen.io/EleftheriaBatsou/full/mRXwBG/) or [Github](https://eleftheriabatsou.github.io/video-speed-controller/)
 
 
+### Day 36: February 4, 2017 (Countdown Timer)
+
+
+**Today's Progress**: This is a countdown timer, similar to Pomodoro clocks. You can schedule your own break, watch the countdown and also the time you have to return, or you can choose time/break by the predefined buttons.
+
+**Thoughts:** The javascript part was a little bit confusing. 
+This project was inspired by: https://javascript30.com
+
+**Link to work:**Countdown Timer [Codepen](http://codepen.io/EleftheriaBatsou/full/ygvvwW/) or [Github](https://eleftheriabatsou.github.io/countdown-timer/)
+
+
 
 
 
