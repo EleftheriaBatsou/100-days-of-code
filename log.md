@@ -377,6 +377,19 @@ This project was inspired by: https://javascript30.com
 **Link to work:**Countdown Timer [Codepen](http://codepen.io/EleftheriaBatsou/full/ygvvwW/) or [Github](https://eleftheriabatsou.github.io/countdown-timer/)
 
 
+### Day 37: February 5, 2017 (Whack-a-mole)
+
+
+**Today's Progress**: Whack - a - mole game with js! 
+Press start and begin the game. The duration of the game is 10 seconds. 
+
+**Thoughts:** The bird pops up randomly from the hole, try to click on it. You can click it as many times as possible to get a greater score. The score is displayed at the top right corner. To play again, refresh the page.
+This project was inspired by: https://javascript30.com
+
+**Link to work:**Whack-a-mole [Codepen](http://codepen.io/EleftheriaBatsou/full/EZQRPJ/) or [Github](https://eleftheriabatsou.github.io/whack-a-mole/)
+
+
+
 
 
 
