@@ -389,6 +389,17 @@ This project was inspired by: https://javascript30.com
 **Link to work:**Whack-a-mole [Codepen](http://codepen.io/EleftheriaBatsou/full/EZQRPJ/) or [Github](https://eleftheriabatsou.github.io/whack-a-mole/)
 
 
+### Day 38: February 6, 2017 (Start Stop CSS keyframes animation with JS)
+
+
+**Today's Progress**: Today I made a ball to move horizontally! You can press start and button to control the ball 
+
+**Thoughts:** I learn how to program interactive CSS3 keyframes animations. Meaning that you allow the user to control the animation in specific ways, which can be done through JavaScript event handling.
+This project was inspired by: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Start Stop CSS keyframes animation with JS [Codepen](http://codepen.io/EleftheriaBatsou/full/apjZKo/) or [Github](https://eleftheriabatsou.github.io/start-stop-CSS-keyframes-animation-with-JS/)
+
+
 
 
 
