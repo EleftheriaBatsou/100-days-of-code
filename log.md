@@ -400,6 +400,17 @@ This project was inspired by: http://www.developphp.com/video/JavaScript
 **Link to work:**Start Stop CSS keyframes animation with JS [Codepen](http://codepen.io/EleftheriaBatsou/full/apjZKo/) or [Github](https://eleftheriabatsou.github.io/start-stop-CSS-keyframes-animation-with-JS/)
 
 
+### Day 39: February 7, 2017 (Animated Button Marker System)
+
+
+**Today's Progress**: I learn to create animated button marker systems for menus using JavaScript, CSS and HTML.
+
+**Thoughts:** Another simple yet cool effect using only some lines of javascript.
+This project was inspired by: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Animated Button Marker System [Codepen](http://codepen.io/EleftheriaBatsou/full/egLZzB/) or [Github](https://eleftheriabatsou.github.io/animated-button-marker-system/)
+
+
 
 
 
