@@ -411,6 +411,17 @@ This project was inspired by: http://www.developphp.com/video/JavaScript
 **Link to work:**Animated Button Marker System [Codepen](http://codepen.io/EleftheriaBatsou/full/egLZzB/) or [Github](https://eleftheriabatsou.github.io/animated-button-marker-system/)
 
 
+### Day 40: February 8, 2017 (Transform Rotate Image Spin Smooth Animation)
+
+
+**Today's Progress**: I learn how to program any CSS property animations using JavaScript and the CSS3 transform property, with just a few lines of code. 
+
+**Thoughts:** JavaScript offers to animations more flexibility regarding user interactivity with your animations. CSS alone cannot offer you all of the DOM event handlers that are useful for programming advanced interactivity with the animated elements.
+This project was inspired by: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Transform Rotate Image Spin Smooth Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/xgajZb/) or [Github](https://eleftheriabatsou.github.io/transform-rotate-image-spin-animation/)
+
+
 
 
 
