@@ -422,6 +422,17 @@ This project was inspired by: http://www.developphp.com/video/JavaScript
 **Link to work:**Transform Rotate Image Spin Smooth Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/xgajZb/) or [Github](https://eleftheriabatsou.github.io/transform-rotate-image-spin-animation/)
 
 
+### Day 41: February 9, 2017 (Bubbles Slideshow Application)
+
+
+**Today's Progress**: I made a bubble slideshow application that you can implement into your projects and customize to your liking. 
+
+**Thoughts:** Every line of JavaScript is well commented so that you can determine what is happening in the script more easily and alter it. I have use images but we can also use content. The slideshow automatically changes content every 5 seconds.
+This project was inspired by: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Bubbles Slideshow Application [Codepen](http://codepen.io/EleftheriaBatsou/full/RKYedO/) or [Github](https://eleftheriabatsou.github.io/bubbles-slideshow-application/)
+
+
 
 
 
