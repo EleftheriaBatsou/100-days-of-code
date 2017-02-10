@@ -433,6 +433,21 @@ This project was inspired by: http://www.developphp.com/video/JavaScript
 **Link to work:**Bubbles Slideshow Application [Codepen](http://codepen.io/EleftheriaBatsou/full/RKYedO/) or [Github](https://eleftheriabatsou.github.io/bubbles-slideshow-application/)
 
 
+### Day 42: February 10, 2017 (Material Design Colors)
+
+
+**Today's Progress**: This project is a palette of material design colors.  
+
+**Thoughts:** I usually search a lot to combine colors, so I made my own "color picker" to save some time of future projects.
+There are 12 fifferent colors and 6 different variations for each one.
+I didn't use all the colors, for example, there aren't any variations of white/black
+This project was inspired by: https://www.materialui.co/colors
+
+**Link to work:** [Codepen](http://codepen.io/EleftheriaBatsou/full/GrXwPj/) or [Github](https://eleftheriabatsou.github.io/material-design-colors/)
+
+
+
+
 
 
 
