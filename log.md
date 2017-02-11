@@ -443,7 +443,18 @@ There are 12 fifferent colors and 6 different variations for each one.
 I didn't use all the colors, for example, there aren't any variations of white/black
 This project was inspired by: https://www.materialui.co/colors
 
-**Link to work:** [Codepen](http://codepen.io/EleftheriaBatsou/full/GrXwPj/) or [Github](https://eleftheriabatsou.github.io/material-design-colors/)
+**Link to work:**Material Design Colors [Codepen](http://codepen.io/EleftheriaBatsou/full/GrXwPj/) or [Github](https://eleftheriabatsou.github.io/material-design-colors/)
+
+
+### Day 43: February 11, 2017 (Not your usual buttons)
+
+
+**Today's Progress**: A collection of buttons. Thick or thin, lined, dotted or dashed. Animations, transformations and more. 
+
+**Thoughts:** I wanted to make something with scss as I always code in css, so I thought a project with buttons would't be that bad. We all use buttons and many times we decorate them in our own unique ways, that's what I tryied to do also today.
+This project was inspired by: http://codepen.io/derekmorash/pen/XddZJY?editors=0100
+
+**Link to work:**Not your usual buttons [Codepen](http://codepen.io/EleftheriaBatsou/full/YNOMQN/) or [Github](https://eleftheriabatsou.github.io/not-your-usual-buttons/)
 
 
 
