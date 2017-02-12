@@ -456,6 +456,16 @@ This project was inspired by: http://codepen.io/derekmorash/pen/XddZJY?editors=0
 
 **Link to work:**Not your usual buttons [Codepen](http://codepen.io/EleftheriaBatsou/full/YNOMQN/) or [Github](https://eleftheriabatsou.github.io/not-your-usual-buttons/)
 
+### Day 44: February 12, 2017 (Koala - Pure CSS)
+
+
+**Today's Progress**: I am planning on taking the challenge #dailycssimages. This is my first time trying to do an image of a "koala" using only css. 
+
+**Thoughts:** I followed this guide here https://medium.com/dailycssimages/a-beginners-guide-to-pure-css-images-ef9a5d069dd2#.yznl0pgs6
+I am sure I will learn so many new things with challenge, I love cute little things and that's what I am planning to make. I have to admit that I am awful at drawing with hand but I will challenge myself to do better with some code.
+
+**Link to work:** Koala - Pure CSS [Codepen](http://codepen.io/EleftheriaBatsou/full/ZLqaby/) or [Github](https://eleftheriabatsou.github.io/koala-pure-css/)
+
 
 
 
