@@ -448,7 +448,6 @@ This project was inspired by: https://www.materialui.co/colors
 
 ### Day 43: February 11, 2017 (Not your usual buttons)
 
-
 **Today's Progress**: A collection of buttons. Thick or thin, lined, dotted or dashed. Animations, transformations and more. 
 
 **Thoughts:** I wanted to make something with scss as I always code in css, so I thought a project with buttons would't be that bad. We all use buttons and many times we decorate them in our own unique ways, that's what I tryied to do also today.
@@ -456,8 +455,8 @@ This project was inspired by: http://codepen.io/derekmorash/pen/XddZJY?editors=0
 
 **Link to work:**Not your usual buttons [Codepen](http://codepen.io/EleftheriaBatsou/full/YNOMQN/) or [Github](https://eleftheriabatsou.github.io/not-your-usual-buttons/)
 
-### Day 44: February 12, 2017 (Koala - Pure CSS)
 
+### Day 44: February 12, 2017 (Koala - Pure CSS)
 
 **Today's Progress**: I am planning on taking the challenge #dailycssimages. This is my first time trying to do an image of a "koala" using only css. 
 
@@ -465,6 +464,18 @@ This project was inspired by: http://codepen.io/derekmorash/pen/XddZJY?editors=0
 I am sure I will learn so many new things with challenge, I love cute little things and that's what I am planning to make. I have to admit that I am awful at drawing with hand but I will challenge myself to do better with some code.
 
 **Link to work:** Koala - Pure CSS [Codepen](http://codepen.io/EleftheriaBatsou/full/ZLqaby/) or [Github](https://eleftheriabatsou.github.io/koala-pure-css/)
+
+
+### Day 45: February 13, 2017 (Vertical Timeline - My life)
+
+**Today's Progress**: Building a Vertical Timeline With CSS and a Touch of JavaScript.
+
+**Thoughts:** I decide to make the story with the basic facts about my life. There isn't much js and the code is pretty simple. I also used scss. I found slowly myslef prefering scss rather than css. I guess that's good.
+Inspiration: http://codepen.io/tutsplus/pen/QNeJgR?editors=1000
+
+**Link to work:**Vertical Timeline - My life  [Codepen](http://codepen.io/EleftheriaBatsou/full/vgvXQK/) or [Github](https://gist.github.com/EleftheriaBatsou/6034d2c4df64ca07a811c74fe37f44cc)
+
+
 
 
 
