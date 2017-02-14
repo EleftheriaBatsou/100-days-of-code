@@ -475,6 +475,21 @@ Inspiration: http://codepen.io/tutsplus/pen/QNeJgR?editors=1000
 
 **Link to work:**Vertical Timeline - My life  [Codepen](http://codepen.io/EleftheriaBatsou/full/vgvXQK/) or [Github](https://gist.github.com/EleftheriaBatsou/6034d2c4df64ca07a811c74fe37f44cc)
 
+### Day 46: February 14, 2017 (Home Sweet home)
+
+**Today's Progress**: Home sweet home for valentine's day, css only
+
+**Thoughts:** Today I didn't have much inspiration so I combined different things I learn in the past. I basically made a pure-css-image (home, window, roof, tree), and then I added a photo of me in the window. In front of the window (greater z-index) I made a red square that with some js can disappear/explode. Finally I added another face in the left upper corner to be my valentine. You can drag that face!
+Oh and I also added  the phrase "be my valentine" which is pure js, but I didn't write that code. You can find the link below for the original one. 
+
+For the moving text (be my valentine!):
+https://jsfiddle.net/m1erickson/q7tpsnmv
+For dragging (the sexy face):
+http://jsfiddle.net/entropo/gPdzC/
+
+
+**Link to work:**Home Sweet home  [Codepen](http://codepen.io/EleftheriaBatsou/full/QdJKpQ/) or [Github](https://eleftheriabatsou.github.io/home-sweet-home-v-day/)
+
 
 
 
