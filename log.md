@@ -475,6 +475,7 @@ Inspiration: http://codepen.io/tutsplus/pen/QNeJgR?editors=1000
 
 **Link to work:**Vertical Timeline - My life  [Codepen](http://codepen.io/EleftheriaBatsou/full/vgvXQK/) or [Github](https://gist.github.com/EleftheriaBatsou/6034d2c4df64ca07a811c74fe37f44cc)
 
+
 ### Day 46: February 14, 2017 (Home Sweet home)
 
 **Today's Progress**: Home sweet home for valentine's day, css only
@@ -489,6 +490,16 @@ http://jsfiddle.net/entropo/gPdzC/
 
 
 **Link to work:**Home Sweet home  [Codepen](http://codepen.io/EleftheriaBatsou/full/QdJKpQ/) or [Github](https://eleftheriabatsou.github.io/home-sweet-home-v-day/)
+
+
+### Day 47: February 15, 2017 (Monthly Payment Loan Calculator)
+
+**Today's Progress**: I learned to program a Monthly Payment Loan Calculator with simple interest calculations included. The JavaScript logic can be used with or without value gathering form controls. 
+
+**Thoughts:** In this project, we are adding the HTML form elements that will gather values needed by the script.
+Inspiration: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Monthly Payment Loan Calculator  [Codepen](http://codepen.io/EleftheriaBatsou/full/MJZJBp/) or [Github](https://eleftheriabatsou.github.io/monthly-payment-loan-calculator/)
 
 
 
