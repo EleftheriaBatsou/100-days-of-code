@@ -502,6 +502,16 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Monthly Payment Loan Calculator  [Codepen](http://codepen.io/EleftheriaBatsou/full/MJZJBp/) or [Github](https://eleftheriabatsou.github.io/monthly-payment-loan-calculator/)
 
 
+### Day 48: February 16, 2017 (Tip Calculator)
+
+**Today's Progress**: In this programming exercise, I learned to program a tip calculator application from scratch using JavaScript and HTML. I also applied a bit of CSS to the application to look better.
+
+**Thoughts:** Yesterday and today I made a calculator. The js part is always the tricky one. For the css I am planning on using the same tamplate so not to waste time.
+Inspiration: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Tip Calculator  [Codepen](http://codepen.io/EleftheriaBatsou/full/OWreQY/) or [Github](https://eleftheriabatsou.github.io/tip-calculator/)
+
+
 
 
 
