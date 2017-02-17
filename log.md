@@ -512,7 +512,15 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Tip Calculator  [Codepen](http://codepen.io/EleftheriaBatsou/full/OWreQY/) or [Github](https://eleftheriabatsou.github.io/tip-calculator/)
 
 
+### Day 49: February 17, 2017 (Textarea Counting and Limiting)
 
+**Today's Progress**: I used JavaScript to limit and count a text field in HTML based forms. 
+It shows the user how many characters are remaining that they can type into that field. It will limit the amount they can type in real time also.
+
+**Thoughts:** It is really similiar to twitter and the code isn't very compicated.
+Inspiration: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Textarea Counting and Limiting  [Codepen](http://codepen.io/EleftheriaBatsou/full/EZragR/) or [Github](https://eleftheriabatsou.github.io/textarea-counting-and-limiting/)
 
 
 
