@@ -523,6 +523,16 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Textarea Counting and Limiting  [Codepen](http://codepen.io/EleftheriaBatsou/full/EZragR/) or [Github](https://eleftheriabatsou.github.io/textarea-counting-and-limiting/)
 
 
+### Day 50: February 18, 2017 (Toggle Password Security Form)
+
+**Today's Progress**: I learned how to build a log in password security mode toggle function using simple Javascript that affects the HTML password type input field. Allow the user to change back and forth to any mode they like best for entering their passwords.
+
+**Thoughts:** I think this a simple but effective way to preotect your passwords when others are around
+Inspiration: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Toggle Password Security Form [Codepen](http://codepen.io/EleftheriaBatsou/full/mRvyzV/) or [Github](https://eleftheriabatsou.github.io/toggle-password-security-form/)
+
+
 
 
 
