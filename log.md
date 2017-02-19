@@ -533,6 +533,16 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:** Toggle Password Security Form [Codepen](http://codepen.io/EleftheriaBatsou/full/mRvyzV/) or [Github](https://eleftheriabatsou.github.io/toggle-password-security-form/)
 
 
+### Day 51: February 19, 2017 (Trap User Check for Unsaved Written Work)
+
+**Today's Progress**: I learned how to program a Trap user application like YouTube and Facebook have using JavaScript. If the user has unsaved work or has not posted text they have composed yet before they try to leave. 
+
+**Thoughts:** Sometimes the alert-boxes can be very annyoing but in case like it is to save your work, they can be very helpfull.
+Inspiration: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Trap User Check for Unsaved Written Work  [Codepen](http://codepen.io/EleftheriaBatsou/full/YNBXeZ/) or [Github](https://eleftheriabatsou.github.io/trap-user-check-for-unsaved-written-work/)
+
+
 
 
 
