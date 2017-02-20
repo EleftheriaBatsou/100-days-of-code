@@ -543,6 +543,16 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Trap User Check for Unsaved Written Work  [Codepen](http://codepen.io/EleftheriaBatsou/full/YNBXeZ/) or [Github](https://eleftheriabatsou.github.io/trap-user-check-for-unsaved-written-work/)
 
 
+### Day 52: February 20, 2017 (Change Dynamic List Option Elements)
+
+**Today's Progress**: I learn how to program dynamic select form list elements. A web application developer definitely need to know how to do this when they get into form programming that involves data intake of categories and subcategories from a user.
+
+**Thoughts:** I think there are several techniques for doing the same think, it's my first time doing it in this way. To be honest I dont know useful would this be for larger applications.
+Inspiration: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Change Dynamic List Option Elements [Codepen](http://codepen.io/EleftheriaBatsou/full/ZLwqYM/) or [Github](https://eleftheriabatsou.github.io/change-dynamic-list-option-elements/)
+
+
 
 
 
