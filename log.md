@@ -553,6 +553,16 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Change Dynamic List Option Elements [Codepen](http://codepen.io/EleftheriaBatsou/full/ZLwqYM/) or [Github](https://eleftheriabatsou.github.io/change-dynamic-list-option-elements/)
 
 
+### Day 53: February 21, 2017 (Peekaboo - Scroll Down CSS Animation)
+
+**Today's Progress**: I Learn how to program animated HTML Peekaboo boxes using CSS transitions that are triggered using only one line of JavaScript. 
+
+**Thoughts:** The Peekaboo box can animate into the web page at any desired scroll point. 
+Inspiration: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Peekaboo - Scroll Down CSS Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/OWdBqv/) or [Github](https://eleftheriabatsou.github.io/peekaboo-scroll-down-CSS-animation/)
+
+
 
 
 
