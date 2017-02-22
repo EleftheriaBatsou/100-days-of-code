@@ -563,6 +563,16 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Peekaboo - Scroll Down CSS Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/OWdBqv/) or [Github](https://eleftheriabatsou.github.io/peekaboo-scroll-down-CSS-animation/)
 
 
+### Day 54: February 22, 2017 (Parallax Scroll Effects - Animation)
+
+**Today's Progress**: When creating parallax effects the programming goal is to make different layers move at different speeds. It is sometimes programmed according to where the user mouse moves on the screen, and sometimes it's programmed into the scrolling of content on a web page. It is a similar concept to Disney's Multiplane Camera where different layers will move at different speeds to give the viewer a better sense of depth. 
+
+**Thoughts:** I use essentially just 1 line of JavaScript code to produce a parallax scrolling effect.
+Inspiration: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Parallax Scroll Effects - Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/pRGqJN/) or [Github](https://eleftheriabatsou.github.io/parallax-scroll-effects-animation/)
+
+
 
 
 
