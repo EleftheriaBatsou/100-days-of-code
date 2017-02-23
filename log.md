@@ -573,14 +573,14 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Parallax Scroll Effects - Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/pRGqJN/) or [Github](https://eleftheriabatsou.github.io/parallax-scroll-effects-animation/)
 
 
-### Day 55: February 23, 2017 ()
+### Day 55: February 23, 2017 (Magic header scroll page)
 
 **Today's Progress**: I learned how to program a document header that "magically" changes as the user scrolls down the page. When the user scrolls back to the top of the page we will make the header change back to its original display settings. 
 
 **Thoughts:** I like that effect with the title and subtitle. You can create a nice effect as the visitor scroll the page
 Inspiration: http://www.developphp.com/video/JavaScript
 
-**Link to work:** [Codepen](http://codepen.io/EleftheriaBatsou/full/egXMJO/) or [Github](https://eleftheriabatsou.github.io/magic-header-scroll-page/)
+**Link to work:**magic-header-scroll-page [Codepen](http://codepen.io/EleftheriaBatsou/full/egXMJO/) or [Github](https://eleftheriabatsou.github.io/magic-header-scroll-page/)
 
 
 
