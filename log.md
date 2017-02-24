@@ -583,6 +583,16 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**magic-header-scroll-page [Codepen](http://codepen.io/EleftheriaBatsou/full/egXMJO/) or [Github](https://eleftheriabatsou.github.io/magic-header-scroll-page/)
 
 
+### Day 56: February 24, 2017 (Smooth Auto Scroll)
+
+**Today's Progress**: Smooth auto scrolling effects for web pages. 
+
+**Thoughts:** The method to animate on the window object is the scroll() method, you can custom animate any CSS properties or DOM methods over time using simple looping mechanisms in JavaScript.
+Inspiration: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Smooth Auto Scroll [Codepen](http://codepen.io/EleftheriaBatsou/full/qRvKLd/) or [Github](https://eleftheriabatsou.github.io/smooth-auto-scroll/)
+
+
 
 
 
