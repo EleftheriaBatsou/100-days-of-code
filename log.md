@@ -593,6 +593,16 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Smooth Auto Scroll [Codepen](http://codepen.io/EleftheriaBatsou/full/qRvKLd/) or [Github](https://eleftheriabatsou.github.io/smooth-auto-scroll/)
 
 
+### Day 57: February 24, 2017 (Typing Text Animation)
+
+**Today's Progress**: I learn to program arrays and timed loops in JavaScript to animate typing text. We string.split() any string into an array, that we can then use array.shift() on to pluck each element off of the front of the array that represents your string.
+
+**Thoughts:** It s a nice animation for text, I ve seen it in my websites and now I did it!
+Inspiration: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Typing Text Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/NdQVNV/) or [Github](https://eleftheriabatsou.github.io/typing-text-animation/)
+
+
 
 
 
