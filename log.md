@@ -603,6 +603,16 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Typing Text Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/NdQVNV/) or [Github](https://eleftheriabatsou.github.io/typing-text-animation/)
 
 
+### Day 58: February 25, 2017 (Array Slideshow Animation)
+
+**Today's Progress**: I Learn how to program Array based animated slideshows that can fully customized using HTML, CSS and JavaScript. You can extend the programming to place dynamic server side content into the array, then traverse over a dynamic array as a slideshow. This can also be done using CSS3 keyframes and HTML elements, but it takes more code to accomplish and you cannot use arrays.
+
+**Thoughts:** Animated slideshows can be made using CSS3 keyframes but you cannot use Array data and it takes a little bit more code to accomplish. You can easily stack this array with dynamic server side content from database if you wish. The array can also be changed in real time dynamically. I used JavaScript to allow the use of array data.
+
+Inspiration: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Array Slideshow Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/dNxEej/) or [Github](https://eleftheriabatsou.github.io/array-slideshow-animation/)
+
 
 
 
