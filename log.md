@@ -614,6 +614,16 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Array Slideshow Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/dNxEej/) or [Github](https://eleftheriabatsou.github.io/array-slideshow-animation/)
 
 
+### Day 59: February 25, 2017 (Memory Game)
+
+**Today's Progress**: In this array programming exercise Ι  learn to create a JavaScript powered memory game that can be easily enhanced and extended.
+
+**Thoughts:** I like this game and I find it very clever, I like to play again and again!
+Inspiration: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Memory Game [Codepen](http://codepen.io/EleftheriaBatsou/full/rjXEBY/) or [Github](https://eleftheriabatsou.github.io/memory-game-flipping-cards/)
+
+
 
 
 
