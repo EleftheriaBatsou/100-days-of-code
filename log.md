@@ -593,7 +593,7 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Smooth Auto Scroll [Codepen](http://codepen.io/EleftheriaBatsou/full/qRvKLd/) or [Github](https://eleftheriabatsou.github.io/smooth-auto-scroll/)
 
 
-### Day 57: February 24, 2017 (Typing Text Animation)
+### Day 57: February 25, 2017 (Typing Text Animation)
 
 **Today's Progress**: I learn to program arrays and timed loops in JavaScript to animate typing text. We string.split() any string into an array, that we can then use array.shift() on to pluck each element off of the front of the array that represents your string.
 
@@ -603,7 +603,7 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Typing Text Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/NdQVNV/) or [Github](https://eleftheriabatsou.github.io/typing-text-animation/)
 
 
-### Day 58: February 25, 2017 (Array Slideshow Animation)
+### Day 58: February 26, 2017 (Array Slideshow Animation)
 
 **Today's Progress**: I Learn how to program Array based animated slideshows that can fully customized using HTML, CSS and JavaScript. You can extend the programming to place dynamic server side content into the array, then traverse over a dynamic array as a slideshow. This can also be done using CSS3 keyframes and HTML elements, but it takes more code to accomplish and you cannot use arrays.
 
@@ -614,7 +614,7 @@ Inspiration: http://www.developphp.com/video/JavaScript
 **Link to work:**Array Slideshow Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/dNxEej/) or [Github](https://eleftheriabatsou.github.io/array-slideshow-animation/)
 
 
-### Day 59: February 25, 2017 (Memory Game)
+### Day 59: February 27, 2017 (Memory Game)
 
 **Today's Progress**: In this array programming exercise Ι  learn to create a JavaScript powered memory game that can be easily enhanced and extended.
 
