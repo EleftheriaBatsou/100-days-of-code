@@ -636,6 +636,18 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Exam App - Online Quiz - js [Codepen](http://codepen.io/EleftheriaBatsou/full/bqVwXq/) or [Github](https://eleftheriabatsou.github.io/exam-app-online-quiz-js/)
 
 
+### Day 61: March 1, 2017 (Fisher Yates Shuffle)
+
+**Today's Progress**: In this programming exercise, it is being demonstrated the concepts behind the Fisher-Yates Modern Shuffle algorithm as we are going to be using its logic to program a shuffle method into JavaScript. 
+
+**Thoughts:** We will write the logic in JavaScript programming to add an array shuffle method to JavaScript's array object. It's my first time doing an algorithm but I want to do more sorting algorithms with visual effects.
+
+Inspiration: http://www.developphp.com/video/JavaScript/Fisher-Yates-Shuffle-Modern-Algorithm-Array-Programming-Tutorial
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Fisher Yates Shuffle [Codepen](http://codepen.io/EleftheriaBatsou/full/VpvKmq/) or [Github](https://eleftheriabatsou.github.io/fisher-yates-shuffle/)
+
+
 
 
 
