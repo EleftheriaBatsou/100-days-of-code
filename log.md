@@ -648,6 +648,18 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Fisher Yates Shuffle [Codepen](http://codepen.io/EleftheriaBatsou/full/VpvKmq/) or [Github](https://eleftheriabatsou.github.io/fisher-yates-shuffle/)
 
 
+### Day 62: March 2, 2017 (Get or Remove Random Array Elements)
+
+**Today's Progress**: Since JavaScript does not have built in methods for selecting or removing array elements randomly, this project demonstrates how to extend the Array object to supply it with those types of methods. 
+
+**Thoughts:** The first example shows how to get a random array element without affecting the original array, the second example shows how to randomly splice an element from an array which removes the target item from the array. It is also demonstraded how to extend the JavaScript Array object with these custom methods.
+
+Inspiration: http://www.developphp.com/video/JavaScript/Get-or-Remove-Random-Array-Elements-Tutorial
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Get or Remove Random Array Elements [Codepen](http://codepen.io/EleftheriaBatsou/full/mWeOZB/) or [Github](https://eleftheriabatsou.github.io/get-or-remove-random-array-elements/)
+
+
 
 
 
