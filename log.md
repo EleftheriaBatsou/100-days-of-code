@@ -660,6 +660,19 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Get or Remove Random Array Elements [Codepen](http://codepen.io/EleftheriaBatsou/full/mWeOZB/) or [Github](https://eleftheriabatsou.github.io/get-or-remove-random-array-elements/)
 
 
+### Day 63: March 3, 2017 (Canvas | 2D Context Object and Rectangle Methods)
+
+**Today's Progress**: This is my first attempt to understand a liitle better canvas. I think it will also help in #dailycssimages, maybe it's easier to draw shapes?! I dont yet :P.
+
+**Thoughts:** I use JavaScript to deliver all control and assets to our canvas.
+Most important to understand is the values in fill or stroke Rect. The first two values represent the dimentions (x,y) while the last two values represent the width and the height.
+
+Inspiration: http://www.developphp.com/video/JavaScript/2D-Context-Object-and-Rectangle-Methods
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | 2D Context Object and Rectangle Methods [Codepen](http://codepen.io/EleftheriaBatsou/full/ryOjgj/) or [Github](https://eleftheriabatsou.github.io/canvas-2D-context-object-rectangle-methods/)
+
+
 
 
 
