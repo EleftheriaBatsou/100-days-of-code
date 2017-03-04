@@ -673,6 +673,21 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | 2D Context Object and Rectangle Methods [Codepen](http://codepen.io/EleftheriaBatsou/full/ryOjgj/) or [Github](https://eleftheriabatsou.github.io/canvas-2D-context-object-rectangle-methods/)
 
 
+### Day 64: March 4, 2017 (Canvas | Fill & Stroke Styles Color Gradient Pattern)
+
+**Today's Progress**: This time I am using canvas with methods like: addColorStop, fillStyle, strokeStyle, lineWidth, fillRect, strokeRect, createPattern.
+
+**Thoughts:**I learn how to create images:  
+leather.src = "leather.jpg";
+ And I finally understand all the parameters:
+createRadialGradient(Xstart, Ystart, RADIUSstart, Xend, Yend, RADIUSend); 
+
+Inspiration: http://www.developphp.com/video/JavaScript/Fill-and-Stroke-Styles-Color-Gradient-Pattern
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Fill & Stroke Styles Color Gradient Pattern [Codepen](http://codepen.io/EleftheriaBatsou/full/WpQEzG/) or [Github](https://eleftheriabatsou.github.io/canvas-fill-and-stroke-styles-color-gradient-pattern/)
+
+
 
 
 
