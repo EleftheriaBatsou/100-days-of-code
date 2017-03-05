@@ -688,6 +688,18 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | Fill & Stroke Styles Color Gradient Pattern [Codepen](http://codepen.io/EleftheriaBatsou/full/WpQEzG/) or [Github](https://eleftheriabatsou.github.io/canvas-fill-and-stroke-styles-color-gradient-pattern/)
 
 
+### Day 65: March 5, 2017 (Canvas | Line Styles for Lines and Strokes)
+
+**Today's Progress**: Today my focus is on line styles. There are several properties in JavaScript  available that allow us to manipulate the way lines and strokes appear on our canvas element. 
+
+**Thoughts:**Create dashed lines, offset dashes, miter effects, rounded effects and more.
+
+Inspiration: http://www.developphp.com/video/JavaScript/Line-Styles-for-Lines-and-Strokes
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Line Styles for Lines and Strokes [Codepen](http://codepen.io/EleftheriaBatsou/full/gmaGrw/) or [Github](https://eleftheriabatsou.github.io/canvas-line-styles-for-lines-and-strokes/)
+
+
 
 
 
