@@ -700,6 +700,19 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | Line Styles for Lines and Strokes [Codepen](http://codepen.io/EleftheriaBatsou/full/gmaGrw/) or [Github](https://eleftheriabatsou.github.io/canvas-line-styles-for-lines-and-strokes/)
 
 
+### Day 66: March 6, 2017 (Canvas | Building and Drawing Paths)
+
+**Today's Progress**: Today I learn some more new methods in canvas js, like:
+beginPath, fill,stroke, clip, closePath, moveTo, lineTo, isPointInPath, rect, arc, arcTo, quadraticCurveTo, bezierCurveTo
+
+**Thoughts:** My journey in canvas is going to be long. I am still learning a lot and I feel I have so much more to learn!
+
+inspiration: http://www.developphp.com/video/JavaScript/Building-and-Drawing-Paths
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Building and Drawing Paths [Codepen](http://codepen.io/EleftheriaBatsou/full/KWdyXO/) or [Github](https://eleftheriabatsou.github.io/canvas-building-and-drawing-paths/)
+
+
 
 
 
