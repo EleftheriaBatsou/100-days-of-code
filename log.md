@@ -713,6 +713,20 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | Building and Drawing Paths [Codepen](http://codepen.io/EleftheriaBatsou/full/KWdyXO/) or [Github](https://eleftheriabatsou.github.io/canvas-building-and-drawing-paths/)
 
 
+### Day 67: March 7, 2017 (Canvas | Drawing Images and Videos)
+
+**Today's Progress**: I learn the three different types of parameter settings for drawing images, videos and canvas elements on the canvas element.
+
+**Thoughts:** The most important of the day was that line:
+ // drawImage(my_pic, clipX, clipY, clipW, clipH, x, y, w, h);
+    ctx.drawImage(my_pic, 390, 0, 900, 900, 20, 20, my_pic.height/3, my_pic.width/3); 
+
+Inspiration: http://www.developphp.com/video/JavaScript/Drawing-Images-and-Videos
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Drawing Images and Videos [Codepen](http://codepen.io/EleftheriaBatsou/full/ryOpzG/) or [Github](https://eleftheriabatsou.github.io/canvas-drawing-images/)
+
+
 
 
 
