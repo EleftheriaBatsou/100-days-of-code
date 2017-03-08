@@ -718,13 +718,24 @@ from: http://www.developphp.com/video/JavaScript
 **Today's Progress**: I learn the three different types of parameter settings for drawing images, videos and canvas elements on the canvas element.
 
 **Thoughts:** The most important of the day was that line:
- // drawImage(my_pic, clipX, clipY, clipW, clipH, x, y, w, h);
+    drawImage(my_pic, clipX, clipY, clipW, clipH, x, y, w, h);
     ctx.drawImage(my_pic, 390, 0, 900, 900, 20, 20, my_pic.height/3, my_pic.width/3); 
 
 Inspiration: http://www.developphp.com/video/JavaScript/Drawing-Images-and-Videos
 from: http://www.developphp.com/video/JavaScript
 
 **Link to work:**Canvas | Drawing Images and Videos [Codepen](http://codepen.io/EleftheriaBatsou/full/ryOpzG/) or [Github](https://eleftheriabatsou.github.io/canvas-drawing-images/)
+
+
+### Day 68: March 8, 2017 (Canvas | Drawing Text on Canvas)
+
+**Today's Progress**: Today I learn the JavaScript methods and properties behind drawing text and text strokes on the canvas element.
+
+**Thoughts:** You can play with the values to see the changes. 
+Inspiration: http://www.developphp.com/video/JavaScript/Drawing-Text-on-Canvas
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Drawing Text on Canvas [Codepen](http://codepen.io/EleftheriaBatsou/full/QpjQLg/) or [Github](https://eleftheriabatsou.github.io/canvas-drawing-text-on-canvas/)
 
 
 
