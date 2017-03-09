@@ -738,6 +738,18 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | Drawing Text on Canvas [Codepen](http://codepen.io/EleftheriaBatsou/full/QpjQLg/) or [Github](https://eleftheriabatsou.github.io/canvas-drawing-text-on-canvas/)
 
 
+### Day 69: March 9, 2017 (Canvas | Rendering Shadows on Canvas)
+
+**Today's Progress**: Today I learn the JavaScript properties behind creating shadow effects on the canvas element.
+
+**Thoughts:** Methods being used: shadowColor, shadowOffsetX, shadowOffsetY, shadowBlur
+
+Inpiration: http://www.developphp.com/video/JavaScript/Rendering-Shadows-on-Canvas
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Rendering Shadows on Canvas [Codepen](http://codepen.io/EleftheriaBatsou/full/ryOJGP/) or [Github](https://eleftheriabatsou.github.io/canvas-rendering-shadows/)
+
+
 
 
 
