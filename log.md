@@ -750,6 +750,18 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | Rendering Shadows on Canvas [Codepen](http://codepen.io/EleftheriaBatsou/full/ryOJGP/) or [Github](https://eleftheriabatsou.github.io/canvas-rendering-shadows/)
 
 
+### Day 70: March 10, 2017 (Canvas | Transformation Effects)
+
+**Today's Progress**: In this JavaScript canvas programming project I learn to apply transformation effects like scale, skew, rotate, translate and understand the transform matrix.
+
+**Thoughts:** Also today I saw that the more you play with values the more you 'll understand them.
+
+Inpiration: http://www.developphp.com/video/JavaScript/Canvas-Transformation-Effects
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Transformation Effects [Codepen](http://codepen.io/EleftheriaBatsou/full/OpMRxK/) or [Github](https://eleftheriabatsou.github.io/canvas-transformation-effects/)
+
+
 
 
 
