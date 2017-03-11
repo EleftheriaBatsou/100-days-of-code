@@ -762,6 +762,18 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | Transformation Effects [Codepen](http://codepen.io/EleftheriaBatsou/full/OpMRxK/) or [Github](https://eleftheriabatsou.github.io/canvas-transformation-effects/)
 
 
+### Day 71: March 10, 2017 (Canvas | Pixel Manipulation)
+
+**Today's Progress**: In this JavaScript canvas programming project I learn to use the Pixel Manipulation methods and properties. Pixel manipulation is useful for copying the pixels in a specified rectangular region on the canvas, and for creating new blank ImageData objects you can fill with image data.
+
+**Thoughts:** It was a simple project, yet I learn a lot of new things
+
+Inpiration: http://www.developphp.com/video/JavaScript/Pixel-Manipulation-on-Canvas
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Pixel Manipulation [Codepen](http://codepen.io/EleftheriaBatsou/full/JWGRza/) or [Github](https://eleftheriabatsou.github.io/canvas-pixel-manipulation/)
+
+
 
 
 
