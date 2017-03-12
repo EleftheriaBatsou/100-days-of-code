@@ -762,7 +762,7 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | Transformation Effects [Codepen](http://codepen.io/EleftheriaBatsou/full/OpMRxK/) or [Github](https://eleftheriabatsou.github.io/canvas-transformation-effects/)
 
 
-### Day 71: March 10, 2017 (Canvas | Pixel Manipulation)
+### Day 71: March 11, 2017 (Canvas | Pixel Manipulation)
 
 **Today's Progress**: In this JavaScript canvas programming project I learn to use the Pixel Manipulation methods and properties. Pixel manipulation is useful for copying the pixels in a specified rectangular region on the canvas, and for creating new blank ImageData objects you can fill with image data.
 
@@ -772,6 +772,19 @@ Inpiration: http://www.developphp.com/video/JavaScript/Pixel-Manipulation-on-Can
 from: http://www.developphp.com/video/JavaScript
 
 **Link to work:**Canvas | Pixel Manipulation [Codepen](http://codepen.io/EleftheriaBatsou/full/JWGRza/) or [Github](https://eleftheriabatsou.github.io/canvas-pixel-manipulation/)
+
+
+### Day 72: March 21, 2017 (Canvas | Compositing )
+
+**Today's Progress**: In this project I learn about the global compositing properties available for the canvas element through JavaScript. Compositing deals with setting global transparency, asset stacking and controlling how assets will interact with one another when they overlap on my canvas.
+
+**Thoughts:** globalAlpha 0.0 - 1.0;
+globalCompositeOperation source-atop || source-in || source-out || source-over (default) || destination-atop || destination-in || destination-out || destination-over || lighter || copy || xor
+
+Inpiration: http://www.developphp.com/video/JavaScript/Compositing-on-the-Canvas
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Compositing  [Codepen](http://codepen.io/EleftheriaBatsou/full/OpMbjb/) or [Github](https://eleftheriabatsou.github.io/canvas-compositing/)
 
 
 
