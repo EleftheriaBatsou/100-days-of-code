@@ -774,7 +774,7 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | Pixel Manipulation [Codepen](http://codepen.io/EleftheriaBatsou/full/JWGRza/) or [Github](https://eleftheriabatsou.github.io/canvas-pixel-manipulation/)
 
 
-### Day 72: March 21, 2017 (Canvas | Compositing )
+### Day 72: March 12, 2017 (Canvas | Compositing )
 
 **Today's Progress**: In this project I learn about the global compositing properties available for the canvas element through JavaScript. Compositing deals with setting global transparency, asset stacking and controlling how assets will interact with one another when they overlap on my canvas.
 
@@ -786,6 +786,15 @@ from: http://www.developphp.com/video/JavaScript
 
 **Link to work:**Canvas | Compositing  [Codepen](http://codepen.io/EleftheriaBatsou/full/OpMbjb/) or [Github](https://eleftheriabatsou.github.io/canvas-compositing/)
 
+
+### Day 73: March 13, 2017 (Canvas | Dynamic Centering and Alignment)
+
+**Today's Progress**: In this JavaScript programming exercise I learn the logic behind dynamic centering and alignment for dynamically positioning on canvas assets. 
+
+**Thoughts:** How many times have we all search how to align content or image? Well this way, is easy and fast!
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Dynamic Centering and Alignment  [Codepen](http://codepen.io/EleftheriaBatsou/full/ryxWQP/) or [Github](https://eleftheriabatsou.github.io/canvas-dynamic-centering-and-alignment/)
 
 
 
