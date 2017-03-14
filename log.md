@@ -797,6 +797,17 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | Dynamic Centering and Alignment  [Codepen](http://codepen.io/EleftheriaBatsou/full/ryxWQP/) or [Github](https://eleftheriabatsou.github.io/canvas-dynamic-centering-and-alignment/)
 
 
+### Day 74: March 14, 2017 (Canvas | Animation and App Initialization)
+
+**Today's Progress**: I Learn to structure my JavaScript for animation programming on the canvas, and how to initialize canvas applications in order to place all of my JavaScript in the head section of the document to keep the documents logical and tidy.
+
+**Thoughts:** I have learn so much about canvas and I realy want to continue learning.
+Inpiration: http://www.developphp.com/video/JavaScript/Canvas-Animation-and-App-Initialization
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Animation and App Initialization  [Codepen](http://codepen.io/EleftheriaBatsou/full/evJvNd/) or [Github](https://eleftheriabatsou.github.io/canvas-animation-and-app-initialization/)
+
+
 
 
 
