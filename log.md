@@ -808,6 +808,18 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | Animation and App Initialization  [Codepen](http://codepen.io/EleftheriaBatsou/full/evJvNd/) or [Github](https://eleftheriabatsou.github.io/canvas-animation-and-app-initialization/)
 
 
+### Day 75: March 15, 2017 (Canvas | Object Oriented Assets OOP)
+
+**Today's Progress**: I learn how to add assets to my canvas in an object oriented manner to where each thing placed on the canvas is an object with unique property values such as its coordinates on the canvas, its fill color, dimensions and more. 
+
+**Thoughts:** This allows us to more effectively treat our canvas assets as unique instances of objects and helps avoid value collisions when animating the property values of multiple assets simultaneously.
+
+Inpiration: http://www.developphp.com/video/JavaScript/Object-Oriented-Assets-OOP-on-Canvas
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Object Oriented Assets OOP  [Codepen](http://codepen.io/EleftheriaBatsou/full/dvGvra/) or [Github](https://eleftheriabatsou.github.io/canvas-object-oriented-assets-OOP/)
+
+
 
 
 
