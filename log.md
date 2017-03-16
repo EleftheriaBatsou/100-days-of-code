@@ -820,6 +820,19 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | Object Oriented Assets OOP  [Codepen](http://codepen.io/EleftheriaBatsou/full/dvGvra/) or [Github](https://eleftheriabatsou.github.io/canvas-object-oriented-assets-OOP/)
 
 
+### Day 76: March 16, 2017 (Canvas | Detect Mouse Coordinates)
+
+**Today's Progress**: In this exercise I am making interactive canvas applications with JavaScript. 
+Capture the user mouse coordinates upon specific events.
+
+**Thoughts:** I learn about: 
+ctx.canvas.addEventListener on mousemove and click
+
+Inpiration: http://www.developphp.com/video/JavaScript/Detect-Mouse-Coordinates-on-Canvas
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Detect Mouse Coordinates  [Codepen](http://codepen.io/EleftheriaBatsou/full/QpyvpM/) or [Github](https://eleftheriabatsou.github.io/canvas-detect-mouse-coordinates/)
+
 
 
 
