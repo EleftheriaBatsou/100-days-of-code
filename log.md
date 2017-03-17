@@ -834,6 +834,18 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:**Canvas | Detect Mouse Coordinates  [Codepen](http://codepen.io/EleftheriaBatsou/full/QpyvpM/) or [Github](https://eleftheriabatsou.github.io/canvas-detect-mouse-coordinates/)
 
 
+### Day 77: March 17, 2017 (Canvas | Animated Background Layers)
+
+**Today's Progress**: I learn to render animated background layers on canvas with JavaScript. 
+
+**Thoughts:** The background only needs to travel to its next tile, when it gets there we set it back to its starting position for a seamless effect.
+
+Inpiration: http://www.developphp.com/video/JavaScript/Animated-Background-Layers-on-Canvas-Tutorial
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Canvas | Animated Background Layers  [Codepen](http://codepen.io/EleftheriaBatsou/full/JWGJYY/) or [Github](https://eleftheriabatsou.github.io/canvas-animated-background-layers/)
+
+
 
 
 
