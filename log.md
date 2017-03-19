@@ -858,6 +858,18 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Canvas | Keyboard Control and Movement  [Codepen](http://codepen.io/EleftheriaBatsou/full/LWGLJy/) or [Github](https://eleftheriabatsou.github.io/canvas-keyboard-control-and-movement/)
 
 
+### Day 79: March 19, 2017 (Canvas | JSON Object Arrays and Loops)
+
+**Today's Progress**: In this exercise I learn to apply custom keyboard controls to canvas applications and games. 
+
+**Thoughts:** We can reference the keydown and keyup events of the document which returns event information to JavaScript about what keys the user is pressing on their keyboard.
+
+Inpiration: http://www.developphp.com/video/JavaScript/Keyboard-Control-and-Movement
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Canvas | JSON Object Arrays and Loops [Codepen](http://codepen.io/EleftheriaBatsou/full/KWVZNd/) or [Github](https://eleftheriabatsou.github.io/canvas-JSON-object-arrays-and-loops/)
+
+
 
 
 
