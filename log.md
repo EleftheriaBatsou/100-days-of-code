@@ -870,6 +870,17 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Canvas | JSON Object Arrays and Loops [Codepen](http://codepen.io/EleftheriaBatsou/full/KWVZNd/) or [Github](https://eleftheriabatsou.github.io/canvas-JSON-object-arrays-and-loops/)
 
 
+### Day 80: March 20, 2017 (Hit Detection Mouse Touch)
+
+**Today's Progress**: Today I learn mouse or touch hit detection against an array of objects on the HTML canvas using JavaScript.
+
+**Thoughts:** It was not a diffucult project but sometimes I found myself forget some simple code solutions
+inspiration: http://www.developphp.com/video/JavaScript/Hit-Detection-Mouse-Touch-Over-Object-Arrays
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Hit Detection Mouse Touch  [Codepen](http://codepen.io/EleftheriaBatsou/full/zZKRdd/) or [Github](https://eleftheriabatsou.github.io/hit-detection-mouse-touch/)
+
+
 
 
 
