@@ -881,6 +881,19 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Hit Detection Mouse Touch  [Codepen](http://codepen.io/EleftheriaBatsou/full/zZKRdd/) or [Github](https://eleftheriabatsou.github.io/hit-detection-mouse-touch/)
 
 
+### Day 81: March 21, 2017 (Particle Effect System Tutorial Snow Falling Animation)
+
+**Today's Progress**: Although in most countries isn't snowing in March I still wanted to try this animation!
+
+I learn how to program a particle effect system on the canvas element using JavaScript. I demonstrate a snow fall particle effect using many tiny sprites that are given randomized values. When any snowflake travels past the bottom of the canvas we remove it from the flakes object array, and continue pouring in more snowflakes from the top of the canvas. 
+
+**Thoughts:** I also learn how to set a rotation on the snowfall to add a wind blown effect to the snow animation.
+inspiration:  http://www.developphp.com/video/JavaScript/Particle-Effect-System-Tutorial-Snow-Falling-Animation
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Particle Effect System Tutorial Snow Falling Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/Zeprga/) or [Github](https://eleftheriabatsou.github.io/particle-effect-system/)
+
+
 
 
 
