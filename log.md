@@ -894,6 +894,21 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Particle Effect System Tutorial Snow Falling Animation [Codepen](http://codepen.io/EleftheriaBatsou/full/Zeprga/) or [Github](https://eleftheriabatsou.github.io/particle-effect-system/)
 
 
+### Day 82: March 22, 2017 (Button Sound Effects - Audible Menu Systems)
+
+**Today's Progress**: In this project I learn how to make an audible HTML5 menu system using JavaScript driven html5 sound objects. For creating elements that play sound when they are interacted with on the page. 
+
+**Thoughts:** You can find and download tons of free bleep and click sounds for your audible menu systems by doing a little searching on the web right now. Try your best to find a very short length sound file. MP3 files that are short beeps or fast clicks are best for button sounds.
+
+sound: https://www.soundjay.com/button/sounds/beep-10.mp3
+from here: https://www.soundjay.com/beep-sounds-1.html
+
+Inspiration: http://www.developphp.com/video/JavaScript/Button-Sound-Effects-Tutorial-Audible-Menu-Systems
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Button Sound Effects - Audible Menu Systems [Codepen](http://codepen.io/EleftheriaBatsou/full/OpRvQW/) or [Github](https://eleftheriabatsou.github.io/button-sound-effects/)
+
+
 
 
 
