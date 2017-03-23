@@ -909,6 +909,19 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Button Sound Effects - Audible Menu Systems [Codepen](http://codepen.io/EleftheriaBatsou/full/OpRvQW/) or [Github](https://eleftheriabatsou.github.io/button-sound-effects/)
 
 
+### Day 83: March 23, 2017 (Audio Play Pause Mute Buttons)
+
+**Today's Progress**: I learn how to program the Audio object and the Web Audio API using JavaScript.
+
+**Thoughts:** I  learn to set up an audio application, work with the Audio object in JavaScript, program play, pause and mute buttons, use CSS to style my custom components and more.
+
+sound: https://www.soundjay.com/beep-sounds-1.html
+Inspiration: http://www.developphp.com/video/JavaScript/Audio-Play-Pause-Mute-Buttons-Tutorial
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Audio Play Pause Mute Buttons [Codepen](http://codepen.io/EleftheriaBatsou/full/LWRgMJ/) or [Github](https://eleftheriabatsou.github.io/audio-play-pause-mute-buttons/)
+
+
 
 
 
