@@ -922,6 +922,19 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Audio Play Pause Mute Buttons [Codepen](http://codepen.io/EleftheriaBatsou/full/LWRgMJ/) or [Github](https://eleftheriabatsou.github.io/audio-play-pause-mute-buttons/)
 
 
+### Day 84: March 24, 2017 (Audio Seek and Volume Range Slider)
+
+**Today's Progress**: In this part of the Audio project I learn how the range slider input that can be used as a seek slider and a volume slider. 
+
+**Thoughts:** I also learn how  can I achieve a consistent range slider input appearance across different browsers.
+
+sound: https://www.soundjay.com/beep-sounds-1.html
+Inspiration: http://www.developphp.com/video/JavaScript/Audio-Seek-and-Volume-Range-Slider-Tutorial
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Audio Seek and Volume Range Slider [Codepen](http://codepen.io/EleftheriaBatsou/full/xqRxrm/) or [Github](https://eleftheriabatsou.github.io/audio-seek-and-volume-range-slider/)
+
+
 
 
 
