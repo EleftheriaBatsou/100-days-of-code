@@ -935,6 +935,20 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Audio Seek and Volume Range Slider [Codepen](http://codepen.io/EleftheriaBatsou/full/xqRxrm/) or [Github](https://eleftheriabatsou.github.io/audio-seek-and-volume-range-slider/)
 
 
+### Day 85: March 25, 2017 (Audio Time Update Position)
+
+**Today's Progress**: Today I learn how to make a time update event handler for our Audio object, which will serve 2 purposes in the particular application I have built. This event will allow us to show current play time against the full duration, it will also allow us to update the position of our seek slider knob so as the audio plays, the seek knob moves along with it by itself.
+
+
+**Thoughts:** I continued yesterday's project, I think it's looking good.
+
+sound: https://www.soundjay.com/beep-sounds-1.html
+Inspiration: http://www.developphp.com/video/JavaScript/Audio-Time-Update-Position-Tutorial
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Audio Time Update Position [Codepen](http://codepen.io/EleftheriaBatsou/full/MpbYqN/) or [Github](https://eleftheriabatsou.github.io/audio-time-update-position/)
+
+
 
 
 
