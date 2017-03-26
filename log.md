@@ -939,7 +939,6 @@ from: http://www.developphp.com/video/JavaScript
 
 **Today's Progress**: Today I learn how to make a time update event handler for our Audio object, which will serve 2 purposes in the particular application I have built. This event will allow us to show current play time against the full duration, it will also allow us to update the position of our seek slider knob so as the audio plays, the seek knob moves along with it by itself.
 
-
 **Thoughts:** I continued yesterday's project, I think it's looking good.
 
 sound: https://www.soundjay.com/beep-sounds-1.html
@@ -947,6 +946,19 @@ Inspiration: http://www.developphp.com/video/JavaScript/Audio-Time-Update-Positi
 from: http://www.developphp.com/video/JavaScript
 
 **Link to work:** Audio Time Update Position [Codepen](http://codepen.io/EleftheriaBatsou/full/MpbYqN/) or [Github](https://eleftheriabatsou.github.io/audio-time-update-position/)
+
+
+### Day 86: March 26, 2017 (Audio Player Skins and CSS Graphics)
+
+**Today's Progress**: Today I style a custom built audio player component into a custom skin.
+
+**Thoughts:** The rest of the code is the same as the previous days.
+
+sound: https://www.soundjay.com/beep-sounds-1.html
+Inspiration: http://www.developphp.com/video/JavaScript/Audio-Player-Skins-and-CSS-Graphics-Tutorial
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Audio Player Skins and CSS Graphics [Codepen](http://codepen.io/EleftheriaBatsou/full/PpbqOL/) or [Github](https://eleftheriabatsou.github.io/audio-player-skins-CSS-graphics/)
 
 
 
