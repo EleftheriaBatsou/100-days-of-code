@@ -961,6 +961,18 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Audio Player Skins and CSS Graphics [Codepen](http://codepen.io/EleftheriaBatsou/full/PpbqOL/) or [Github](https://eleftheriabatsou.github.io/audio-player-skins-CSS-graphics/)
 
 
+### Day 87: March 27, 2017 (Audio Play Speed Setting playback Rate)
+
+**Today's Progress**: Today I learn to add playback speed control to my HTML5 audio and video multimedia programs using JavaScript.
+
+**Thoughts:** The code didn't have many changes. 
+sound: https://www.soundjay.com/beep-sounds-1.html
+Inspiration: http://www.developphp.com/video/JavaScript/Audio-Play-Speed-Setting-playbackRate-Tutorial
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Audio Play Speed Setting playbackRate [Codepen](http://codepen.io/EleftheriaBatsou/full/peNjer/) or [Github](https://eleftheriabatsou.github.io/audio-play-speed-setting-playback-rate/)
+
+
 
 
 
