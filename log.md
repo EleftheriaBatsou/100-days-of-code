@@ -973,6 +973,19 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Audio Play Speed Setting playbackRate [Codepen](http://codepen.io/EleftheriaBatsou/full/peNjer/) or [Github](https://eleftheriabatsou.github.io/audio-play-speed-setting-playback-rate/)
 
 
+### Day 88: March 28, 2017 (Play Uninterrupted Background Music On Your Website)
+
+**Today's Progress**: I learnt about having continuous uninterrupted music playing on all the pages of a website as the user navigates from page to page. The techniques should be followed up with manipulating the URL address bar using JavaScript history object pushState() method so that navigation works like normal and people can post links to individual sections of your website to others.
+
+**Thoughts:** It's not my favourite thing to go on websites and listen to some music, but I guess in some occations it may be usefull.
+
+sound: https://www.soundjay.com/free-music-1.html
+Inspiration: http://www.developphp.com/video/JavaScript/Play-Uninterrupted-Background-Music-On-Your-Website 
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Play Uninterrupted Background Music On Your Website [Codepen](http://codepen.io/EleftheriaBatsou/full/MpbKKZ/) or [Github](https://eleftheriabatsou.github.io/play-uninterrupted-background-music/)
+
+
 
 
 
