@@ -986,6 +986,21 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Play Uninterrupted Background Music On Your Website [Codepen](http://codepen.io/EleftheriaBatsou/full/MpbKKZ/) or [Github](https://eleftheriabatsou.github.io/play-uninterrupted-background-music/)
 
 
+### Day 89: March 29, 2017 (Video Player Custom Controls)
+
+**Today's Progress**: "How to set up a custom controls interface starting with the play/pause button." 
+Customizing the HTML5 video controls interface will allow you to achieve a unique and constant look for your video player in all browser software. Different browser software display different looking default controls for the video element. You can also offer your custom programmed video players to others to use on their websites if they also do not want to use the stock controls that are native to browser software for the video element. We use JavaScript to control the video after we remove the default controls. 
+
+**Thoughts:** I am disabling the default control bar and setting up our own control bar design using a DIV that we can place all of our video controls into as we create them. 
+I add a play/pause button to the control bar
+
+video from here: http://www.lazybox.me/browse/video/
+Inspiration: http://www.developphp.com/video/JavaScript/Video-Player-Custom-Controls-Programming-Tutorial
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Video Player Custom Controls [Codepen](http://codepen.io/EleftheriaBatsou/full/aJBWME/) or [Github](https://eleftheriabatsou.github.io/video-player-custom-controls/)
+
+
 
 
 
