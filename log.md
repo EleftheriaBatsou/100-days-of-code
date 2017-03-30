@@ -1001,6 +1001,19 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Video Player Custom Controls [Codepen](http://codepen.io/EleftheriaBatsou/full/aJBWME/) or [Github](https://eleftheriabatsou.github.io/video-player-custom-controls/)
 
 
+### Day 90: March 30, 2017 (Video Seek Controls)
+
+**Today's Progress**: I used JavaScript to add event listeners and initialize all variables needed for the entire video player script. I also applied the HTML5 range slider input as the custom seek bar for our video player.
+
+**Thoughts:** I am going to add more things untill it s done and has everything. I wanted to add a youtube video but I cant find the way
+
+video from here: http://www.lazybox.me/browse/video/
+Inspiration: http://www.developphp.com/video/JavaScript/Video-Seek-Controls-Programming-Tutorial
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Video Seek Controls [Codepen](http://codepen.io/EleftheriaBatsou/full/YZpxrN/) or [Github](https://eleftheriabatsou.github.io/video-seek-controls/)
+
+
 
 
 
