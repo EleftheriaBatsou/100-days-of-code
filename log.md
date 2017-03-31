@@ -1014,6 +1014,18 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Video Seek Controls [Codepen](http://codepen.io/EleftheriaBatsou/full/YZpxrN/) or [Github](https://eleftheriabatsou.github.io/video-seek-controls/)
 
 
+### Day 91: March 31, 2017 (Video Duration and Current Play Time)
+
+**Today's Progress**: I learn how you can show the current play time and the full video duration time the way youtube videos display video current time and duration. 
+
+**Thoughts:** We can use the currentTime and duration properties of the video object and convert them to minutes and seconds for display purposes.
+
+Inspiration: http://www.developphp.com/video/JavaScript/Video-Duration-and-Current-Play-Time-Programming-Tutorial
+from here: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Video Duration and Current Play Time [Codepen](http://codepen.io/EleftheriaBatsou/full/oZYOKZ/) or [Github](https://eleftheriabatsou.github.io/video-volume/)
+
+
 
 
 
