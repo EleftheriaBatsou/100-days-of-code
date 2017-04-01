@@ -1026,6 +1026,17 @@ from here: http://www.developphp.com/video/JavaScript
 **Link to work:** Video Duration and Current Play Time [Codepen](http://codepen.io/EleftheriaBatsou/full/oZYOKZ/) or [Github](https://eleftheriabatsou.github.io/video-volume/)
 
 
+### Day 92: April 1, 2017 (Video Volume Change and Mute)
+
+**Today's Progress**: I learn how to control the volume in a custom video player using JavaScript. 
+
+**Thoughts:** I added a mute button and volume slider control by accessing the "muted" and "volume" properties of the video object in JavaScript.
+
+Inspiration: http://www.developphp.com/video/JavaScript/Video-Volume-Change-and-Mute-Programming-Tutorial
+from here: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Video Volume Change and Mute [Codepen](http://codepen.io/EleftheriaBatsou/full/jBVjmy/) or [Github](https://eleftheriabatsou.github.io/video-922/)
+
 
 
 
