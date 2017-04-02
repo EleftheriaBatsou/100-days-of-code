@@ -1038,6 +1038,19 @@ from here: http://www.developphp.com/video/JavaScript
 **Link to work:**Video Volume Change and Mute [Codepen](http://codepen.io/EleftheriaBatsou/full/jBVjmy/) or [Github](https://eleftheriabatsou.github.io/video-922/)
 
 
+### Day 93: April 2, 2017 (Video Full Screen Toggle Custom Player Controls)
+
+**Today's Progress**: I added a full screen button to HTML custom video player by using a JavaScript method called requestFullScreen(). 
+
+**Thoughts:** This was my last day of the custom video player with html. Now you can control: play/pause, seek your favourite part, watch the duration/current play time, change the volume, watch in full screen
+
+Inspiration:http://www.developphp.com/video/JavaScript/Video-Full-Screen-Toggle-Custom-Player-Controls-Tutorial
+from here: http://www.developphp.com/video/JavaScript
+
+**Link to work:**Video Full Screen Toggle Custom Player Controls [Codepen](http://codepen.io/EleftheriaBatsou/full/RpoXPa/) or [Github](https://eleftheriabatsou.github.io/video-full-screen-custom-player-/)
+
+
+
 
 
 
