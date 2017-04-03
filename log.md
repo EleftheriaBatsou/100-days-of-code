@@ -1050,6 +1050,18 @@ from here: http://www.developphp.com/video/JavaScript
 **Link to work:**Video Full Screen Toggle Custom Player Controls [Codepen](http://codepen.io/EleftheriaBatsou/full/RpoXPa/) or [Github](https://eleftheriabatsou.github.io/video-full-screen-custom-player-/)
 
 
+### Day 94: April 3, 2017 (Image Cycle Application)
+
+**Today's Progress**: How to program dynamic JavaScript thumbnail image cycling programs where the pictures automatically cycle as the user places their mouse over a preview image. Then when the user mouse leaves the image, the default image is put back in place. 
+
+**Thoughts:** This sort of program can be used to cycle through a collection of video thumbnail images, to cycle product images in an online store, or for any type of situation you wish to apply it to.
+
+Inspiration:http://www.developphp.com/video/JavaScript/Image-Cycle-Application-Programming-Tutorial
+from here: http://www.developphp.com/video/JavaScript  
+
+**Link to work:** Image Cycle Application [Codepen](http://codepen.io/EleftheriaBatsou/full/ryjZJP/) or [Github](https://eleftheriabatsou.github.io/image-cycle-application/)
+
+
 
 
 
