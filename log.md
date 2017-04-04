@@ -1062,6 +1062,19 @@ from here: http://www.developphp.com/video/JavaScript
 **Link to work:** Image Cycle Application [Codepen](http://codepen.io/EleftheriaBatsou/full/ryjZJP/) or [Github](https://eleftheriabatsou.github.io/image-cycle-application/)
 
 
+### Day 95: April 5, 2017 (Countdown Timer)
+
+**Today's Progress**: Wait until the end!
+
+**Thoughts:** JavaScript countdown scripts that will update your HTML page when the timer reaches zero. 
+I used a custom function that utilizes setTimeout and clearTimeout to start the countdown, as well as making it shut off when the countdown reaches 0 and updating the page.
+
+Inspiration:http://www.developphp.com/video/JavaScript/Countdown-Timer-Tutorial-setTimeout-clearTimeout
+from here: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Countdown Timer [Codepen](http://codepen.io/EleftheriaBatsou/full/NpdOJZ/) or [Github](https://eleftheriabatsou.github.io/countdown-timer-pop-up/)
+
+
 
 
 
