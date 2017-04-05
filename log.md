@@ -1062,7 +1062,7 @@ from here: http://www.developphp.com/video/JavaScript
 **Link to work:** Image Cycle Application [Codepen](http://codepen.io/EleftheriaBatsou/full/ryjZJP/) or [Github](https://eleftheriabatsou.github.io/image-cycle-application/)
 
 
-### Day 95: April 5, 2017 (Countdown Timer)
+### Day 95: April 4, 2017 (Countdown Timer)
 
 **Today's Progress**: Wait until the end!
 
@@ -1073,6 +1073,18 @@ Inspiration:http://www.developphp.com/video/JavaScript/Countdown-Timer-Tutorial-
 from here: http://www.developphp.com/video/JavaScript
 
 **Link to work:** Countdown Timer [Codepen](http://codepen.io/EleftheriaBatsou/full/NpdOJZ/) or [Github](https://eleftheriabatsou.github.io/countdown-timer-pop-up/)
+
+
+### Day 96: April 5, 2017 (Countdown Timer - Olympic games)
+
+**Today's Progress**: Do you enjoy Olympic games? Well I am a big fun! I thought I could make a countdown timer untill 2020.
+
+**Thoughts:** How to build JavaScript countdown applications for any target date and time. I use the JavaScript date object to establish two dates to work between with our simple calculations. Once we get the total seconds between the two dates and times we can break the seconds down to minutes, hours, days and even years if your target date is far into the future.
+
+Inspiration: http://www.developphp.com/video/JavaScript/Date-Time-Countdown-Tutorial-Christmas-2012-Doomsday
+from: http://www.developphp.com
+
+**Link to work:** Countdown Timer - Olympic games [Codepen](http://codepen.io/EleftheriaBatsou/full/GWrzGB/) or [Github](https://eleftheriabatsou.github.io/countdown-timer-olympic-games/)
 
 
 
