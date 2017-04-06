@@ -1087,6 +1087,18 @@ from: http://www.developphp.com
 **Link to work:** Countdown Timer - Olympic games [Codepen](http://codepen.io/EleftheriaBatsou/full/GWrzGB/) or [Github](https://eleftheriabatsou.github.io/countdown-timer-olympic-games/)
 
 
+### Day 97: April 6, 2017 (TV Screen Slideshow Timed Image Rotation)
+
+**Today's Progress**: I Learn to program an image rotation slideshow script for JavaScript HTML CSS projects. 
+
+**Thoughts:** You can apply CSS transition property to this script to apply smooth transition animations to the image changing.
+
+Inspiration: http://www.developphp.com/video/JavaScript/TV-Screen-Slideshow-Timed-Image-Rotation-Script-Tutorial
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** TV Screen Slideshow Timed Image Rotation [Codepen](http://codepen.io/EleftheriaBatsou/full/MppBbe/) or [Github](https://eleftheriabatsou.github.io/tv-screen-slideshow/)
+
+
 
 
 
