@@ -1099,6 +1099,18 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** TV Screen Slideshow Timed Image Rotation [Codepen](http://codepen.io/EleftheriaBatsou/full/MppBbe/) or [Github](https://eleftheriabatsou.github.io/tv-screen-slideshow/)
 
 
+### Day 98: April 7, 2017 (Drag and Drop)
+
+**Today's Progress**: I learn how to build a drag and drop applications using JavaScript. 
+
+**Thoughts:** An interesting project
+
+Inspiration: http://www.developphp.com/video/JavaScript/Drag-and-Drop-Application-Development-DnD-Tutorial
+from: http://www.developphp.com/video/JavaScript
+
+**Link to work:** Drag and Drop [Codepen](http://codepen.io/EleftheriaBatsou/full/LWWJMY/) or [Github](https://eleftheriabatsou.github.io/drag-and-drop-app/)
+
+
 
 
 
