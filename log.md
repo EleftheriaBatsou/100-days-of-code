@@ -1111,6 +1111,19 @@ from: http://www.developphp.com/video/JavaScript
 **Link to work:** Drag and Drop [Codepen](http://codepen.io/EleftheriaBatsou/full/LWWJMY/) or [Github](https://eleftheriabatsou.github.io/drag-and-drop-app/)
 
 
+### Day 99: April 8, 2017 (Dual Image Reveal Control)
+
+**Today's Progress**: I created a dual image reveal control interface using very slim JavaScript and the CSS clip property.
+
+**Thoughts:**  I ve been trying to do this effect for so long and I finally did!
+I seriously love it, and it's not even that hard. 
+
+Inspiration: http://www.developphp.com/video/JavaScript/Dual-Image-Reveal-Control-Tutorial
+From: http://www.developphp.com/video/JavaScrip
+
+**Link to work:** Dual Image Reveal Control [Codepen](http://codepen.io/EleftheriaBatsou/full/Rppqgq/) or [Github](https://eleftheriabatsou.github.io/dual-image-reveal-control/)
+
+
 
 
 
