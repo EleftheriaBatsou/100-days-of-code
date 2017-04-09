@@ -1124,6 +1124,15 @@ From: http://www.developphp.com/video/JavaScrip
 **Link to work:** Dual Image Reveal Control [Codepen](http://codepen.io/EleftheriaBatsou/full/Rppqgq/) or [Github](https://eleftheriabatsou.github.io/dual-image-reveal-control/)
 
 
+### Day 100: April 9, 2017 (#100DaysOfCode)
+
+**Today's Progress**: I did it! I did it! I finished my journey for #100DaysOfCode challenge.
+
+**Thoughts:** Of course the journey doesn't end here, in fact I will continue challenge myself with other challenges like #30days30sites and #dailyUI. I gain many followers on codepen and twitter, everyone was nice and supportive. 
+
+**Link to work:** #100DaysOfCode [Codepen](http://codepen.io/EleftheriaBatsou/full/oBXqqx/) or [Github](https://eleftheriabatsou.github.io/100daysofcode/)
+
+
 
 
 
